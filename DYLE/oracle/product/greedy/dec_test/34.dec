@@ -1,0 +1,34 @@
+functional requirements , yeah yes , fifty percent of users say they only use ten percent of the buttons .
+so we have uh a new uh age of forty plus .
+yeah , but good usability , so you can use it .
+sorry i thought about it , yes .
+okay , this was uh my presentation .
+it 's on the on the uh net net uh thing , yeah , i have it on the next page .
+when { disfmarker } not anymore for t_v_ .
+most things in modern t_v_s are also on the menu .
+okay .
+well , the working design .
+the method i used is uh search the web .
+just the web page provided .
+um { disfmarker } basically i 'm i 'm not very technical uh uh educated , but uh i could figure it out .
+um basically what happens is you press a button , uh then a circuit gets closed by pressing the button , uh like a switch .
+and by closing that certain circuit , the chip knows uh what bu button is pressed .
+so like you press a one , that circuit is closed and uh { disfmarker } then the chip produces a pattern .
+like a morse code to uh { disfmarker } and and sends that to the uh l_e_d_ .
+that 's the uh light emitting diode , i think .
+um and the light emitting diode is uh producing infrared light .
+that 's un uh invisible to the human eye .
+and uh transmit that uh to the t_v_ .
+however it has also an uh a visible uh diode that 's uh blinking red if you look in it .
+and that 's uh another diode , i believe .
+it 's just to indicate something 's on .
+so it uh { disfmarker } we have to make a a s a bit more intelligent chip than the standard one .
+because you have to { disfmarker } that 's uh when the circuit is closed , it produces the pattern .
+and then um it 's working .
+yeah .
+yeah , and this is a led too .
+to make it more like a mobile phone .
+more modern .
+different colours .
+okay , o but maybe you can put um the g the options of teletext on the second level of the remote control .
+because you ne almost never use it .

@@ -1,0 +1,3 @@
+the team thought that it was not fair to get a good vad since there were n't enough baseline features .
+an mfcc would have been more appropriate , but optimizing for one meant lower scores on the other .
+in general , the model was better now due to lower latencies .

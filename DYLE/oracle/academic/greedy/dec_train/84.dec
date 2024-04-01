@@ -1,0 +1,5 @@
+of { disfmarker } of speech .
+it works for italian because the vad was trained on italian .
+point { disfmarker } is that the log ?
+they use spectral subtraction , right .
+i mean , the { disfmarker } the filter that { disfmarker } that estimates the mean has a time constant .

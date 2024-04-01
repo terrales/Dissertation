@@ -1,0 +1,3 @@
+the team discussed that the organisation of the intermediate nodes of the belief-net and their properties is almost complete , although no conditional probabilities have been inserted yet .
+these nodes represent decisions that will function as parameters to action calls in the system .
+their values will either be inferred from the user-system interaction , or -as a last resort- requested directly from the user .

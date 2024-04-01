@@ -1,0 +1,3 @@
+since the team is familiar with perl and a flat file format is easier , it was suggested that the cost of learning a new framework , like atlas , might be too high .
+it was suggested that atlas be used for the external file representation initially , and if it seems suitable , then it should be adopted in its entirety .
+p files were also discussed but the problem with them was that they could still get pretty big .

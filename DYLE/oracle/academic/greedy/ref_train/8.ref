@@ -1,0 +1,5 @@
+c developed an xml format that links together utterances based on time tags , essentially creating a lattice .
+the xml format would be divided into many sections , each with its own id and timeline tag .
+the xml format could be modified to deal with smaller linguistic units since that would only entail changing the timestamps .
+despite being easy to use , the format was not efficient for smaller linguistic units , like phones .
+it would work for word units , at best .

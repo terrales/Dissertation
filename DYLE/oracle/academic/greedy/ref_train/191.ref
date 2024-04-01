@@ -1,0 +1,4 @@
+the feature classification had means of 0.3 for voiced and 0.59 for unvoiced on voice-unvoice , though the variance was quite high .
+the team was using timit and was in the stage of looking for features .
+the professor thought that the team 's intuition was leading them to make statistical characterizations of what was missing from the spectral envelope .
+they could use things they were potentially losing in the smoothing process .

@@ -1,0 +1,12 @@
+oh you were there ?
+so you could do a { disfmarker } you could do a stricter one .
+then they could n't .
+i see .
+just talk more .
+we have not make the experiment delegate .
+that 's good .
+it 's good to delegate .
+could you cluster the { disfmarker } just do some kind of clustering ?
+bin them up into different categories and { disfmarker } right , right .
+and as part of that um i wanted to see sort of how the um { disfmarker } how these models were coming out , you know , what w { vocalsound } when we train up uh th you know , the model for `` one `` , which wants to have nine states , you know , what is the { disfmarker } uh what do the transition probabilities look like { disfmarker } in the self - loops , { comment } look like in { disfmarker } in those models ?
+and so i talked to andreas and he explained to me how you can { vocalsound } calculate the expected duration of an hmm just by looking at the transition matrix

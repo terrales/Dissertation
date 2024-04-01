@@ -1,0 +1,3 @@
+the input layer deriving information from things like the user and situation models , feeds into a set of decision nodes , such as the enter/view/approach ( eva ) endpoint .
+in any particular situation , most of the outputs will not be relevant to the given context .
+therefore , they will either have to be pruned a posteriori , or only a subset of the possible decision nodes will be computed in each occasion .

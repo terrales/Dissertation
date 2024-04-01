@@ -1,0 +1,5 @@
+the meeting was about a computer based navigation system that will be used to conduct linguistic experiments on navigational terminology and intentionality , and it was simultaneously being recorded for another project .
+the navigational interface allows people to walk around a place and perform basic actions , like entering a building .
+its goal is to understand what people intend to do based on granular linguistic features .
+the experimental set up is that people talk to a human assistant who controls the program in an attempt to complete a certain task .
+to study intentionality , the team will determine important linguistic features and use a bayes model to see if they can predict the intention based on utterances .

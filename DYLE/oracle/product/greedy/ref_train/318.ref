@@ -1,0 +1,4 @@
+when a button was pressed , a small circuit underneath the button would send signals through the wires to the chip .
+the chip would know which button was pressed and produce a morse code signal specific to that button , which the transistor would amplify the signal .
+the led would receive the signal and translate it into infrared light .
+the sensor on the tv would receive the infrared light which contained the signals and would react accordingly .

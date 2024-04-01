@@ -1,0 +1,3 @@
+while remote cvs access seemed to be working , the team was unsure about setting up a cvs server on a new port .
+that required a password mechanism .
+but the team thought an anonymous cvs might be good to store transcripts as it relied on open source software .

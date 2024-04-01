@@ -1,0 +1,24 @@
+uh , the , uh , torrent chip .
+it was true for two years .
+oh .
+ok , sure .
+so , um , last week i finally got results from the sri system about this mean subtraction approach .
+and , um , we { disfmarker } we got an improvement , uh , in word error rate , training on the ti - digits data set and testing on meeting recorder digits of , um , { vocalsound } six percent to four point five percent , um , on the n on the far - mike data using pzm f , but , um , the near - mike performance worsened , um , from one point two percent to two point four percent .
+and , um , wh why would that be , um , { vocalsound } considering that we actually got an improvement in near - mike performance using htk ?
+and so , uh , with some input from , uh , andreas , i have a theory in two parts .
+um , first of all htk { disfmarker } sorry , sr - the sri system is doing channel adaptation , and so htk was n't .
+um , so this , um { disfmarker } this mean subtraction approach will do a kind of channel { pause } normalization and so that might have given the htk use of it a boost that would n't have been applied in the sri case .
+and also , um , the { disfmarker } andreas pointed out the sri system is using more parameters .
+it 's got finer - grained acoustic models .
+so those finer - grained acoustic models could be more sensitive to the artifacts { pause } in the re - synthesized audio .
+um .
+and me and barry were listening to the re - synthesized audio and sometimes it seems like you get of a bit of an echo of speech in the background .
+and so that seems like it could be difficult for training , cuz you could have { pause } different phones { pause } lined up with a different foreground phone , { vocalsound } um , { vocalsound } depending on { pause } the timing of the echo .
+so , um , i 'm gon na try training on a larger data set , and then , eh , the system will have seen more examples o of these artifacts and hopefully will be more robust to them .
+so i 'm planning to use the macrophone set of , um , read speech , and , um { disfmarker } hmm .
+i know in the meeting , like { disfmarker } it did n't seem to help in the htk system .
+with the sri system , you know , it would also be interesting to see , uh { disfmarker } to do the regular aurora test , um , but use the sri system instead of htk .
+your filter is a function of snr .
+hmm ?
+well , it 's not too much , but this { disfmarker } it 's work .
+and then noise removal , which is { disfmarker }

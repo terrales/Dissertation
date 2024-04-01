@@ -1,0 +1,14 @@
+it 's very simple , smoothing things .
+they 're close enough .
+more than one second for sure .
+um .
+on top of the vad that they provide ?
+how { disfmarker } how much latency does the , uh { disfmarker } does our vad add ?
+on the r .
+so the lda and the vad both had a hundred millisecond delay .
+so and they were in parallel , so which means you pick either one of them { disfmarker } and that way the net could use { disfmarker } so we have a vad which is like neur that 's a neural net .
+so the net { disfmarker } the final net { disfmarker } i mean , which is the feature net { disfmarker } so that actually comes after a chain of , like , lda plus everything .
+so it 's , like , it takes a long time to get a decision out of it .
+and { disfmarker } { vocalsound } and you can actually do it for final frame - dropping , but not for the va - f noise estimation .
+i thought that was only used for doing frame - dropping later on .
+our e our effort would have been devastated if you guys had { comment } { vocalsound } run into problems .

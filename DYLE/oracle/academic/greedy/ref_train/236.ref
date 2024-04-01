@@ -1,0 +1,3 @@
+support vector machines were better at dealing with a lower amount of data , so they could do a reasonable job learning patterns in mfcc without too much work .
+they worked by finding an optimal separating plane .
+this was more efficient as the model picked only critical points as opposed to doing more computationally expensive k-means clustering .

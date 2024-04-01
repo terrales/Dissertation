@@ -1,0 +1,3 @@
+the professor made his suggestions through stories .
+the professor wanted to make a point about how they should run a set of experiments to measure the effect of different features with variance in mind .
+he explained that they should weight each coefficient by inverse of the variance .

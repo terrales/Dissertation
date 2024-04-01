@@ -1,0 +1,8 @@
+channel b .
+i was there .
+from uh canonical mappings { comment } um at first yes , i 'm playing .
+um { vocalsound } so i wanted to do this experiment to see um { vocalsound } uh what happens if we try to uh improve the performance of the back - end recognizer for the aurora task and see how that affects things .
+and so i had this um { disfmarker } i think i sent around last week a { disfmarker } { vocalsound } this plan i had for an experiment , this matrix where { vocalsound } i would take the um { disfmarker } the original um the original system .
+so there 's the original system trained on the mel cepstral features and then com and then uh optimize the b htk system and run that again .
+so look at the difference there and then uh do the same thing for { vocalsound } the icsi - ogi front - end .
+well , although by the way .

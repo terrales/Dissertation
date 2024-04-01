@@ -1,0 +1,4 @@
+too much noise was causing the model to perform worse , so the noise addition was constant and not too high .
+the overall improvement was good .
+the smoothing for the average for noise addition was only done on low gains .
+the model performed better on high mismatch .

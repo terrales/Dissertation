@@ -1,0 +1,3 @@
+an alternative representation of the bayes-net , it depicts context features as classes , and dependencies as relations between them .
+the current outputs show the desirability of a site , as well as its eva mode .
+the fact that this model allows for instantiations of classes fits the research purposes much better than the extended belief-net .

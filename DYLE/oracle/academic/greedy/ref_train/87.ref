@@ -1,0 +1,3 @@
+the latency of the recursion was fifty milliseconds .
+the recursion added that much to the overall latency of the system .
+though , phd b suggested doing tasks in parallel to reduce total latency .

@@ -1,0 +1,5 @@
+the existing net for voice-unvoice had three outputs , voice , unvoice , and silence .
+it took fifteen features as inputs .
+the team discussed how energy measures could be incorporated to improve performance on this task .
+the nets took around a day to train , so the team could run more experiments .
+the current performance on the task was unsatisfactory .

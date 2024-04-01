@@ -1,0 +1,3 @@
+due to most outputs not being relevant to the given context , they will either have to be pruned a posteriori , or only a subset of the possible decision nodes will be computed in each occasion .
+the latter option could follow a binary search-tree approach and it could also be better in computational terms .
+in any case , on what basis the `` winner '' output is chosen is not clear .

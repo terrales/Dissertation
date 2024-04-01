@@ -1,0 +1,4 @@
+professor c said the basic hypothesis and starting point is if you examine the energy when two people are speaking at the same time , usually { there 'll be more energy than when one is .
+coming up with a measure which will match this intuition is the next step .
+these energy features should be fed into a discriminative system .
+it is important to pick a normalization that matches the distribution for that feature .

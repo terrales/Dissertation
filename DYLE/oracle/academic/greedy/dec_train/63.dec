@@ -1,0 +1,11 @@
+i can do that quickly .
+um i hired several more transcribers , they 're making great progress .
+as soon as { disfmarker } excellent .
+good .
+and let them work on that .
+darpa demos , we had the submeeting the other day .
+right , which uh { disfmarker } so i 've been working on using the thisl tools to do information retrieval on meeting data and the thisl tools are { disfmarker } there 're two sets , there 's a back - end and a front - end , so the front - end is the user interface and the back - end is the indexing tool and the querying tool .
+and so i 've written some tools to convert everything into the right for file formats .
+and the command line version of the indexing and the querying is now working .
+so at least on the one meeting that i had the transcript for uh conveniently you can now do information retrieval on it , do { disfmarker } type in a { disfmarker } a string and get back a list of start - end times for the meeting , but i do n't take notes , and uh , you know .
+well , but then there 's the infrastructure at the other end

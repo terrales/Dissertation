@@ -1,0 +1,4 @@
+the log magnitude spectral subtraction used twelve seconds from the past and future to calculate the mean .
+the short window did not have a big effect on the model performance , which was much desired .
+the silence , for the most part , had been cut out to make the model more effective .
+the professor added that the system was similar to caching utterances .

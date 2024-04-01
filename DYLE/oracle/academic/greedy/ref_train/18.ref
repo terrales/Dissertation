@@ -1,0 +1,3 @@
+the group discussed the prospect of performing fine-grained acoustic-phonetic analyses on a subset of digits or switchboard data .
+it was suggested that prior to the use of data-driven methods , knowledge-driven approaches should be used to 'seed ' the data with sub-phonemic features , either manually , or using a rich pronunciation dictionary .
+a new version of the pre-segmentation tool that segments channel-specific speech/non-speech portions of the signal has been developed and tested .

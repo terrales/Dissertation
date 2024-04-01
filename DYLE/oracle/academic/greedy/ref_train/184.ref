@@ -1,0 +1,3 @@
+the team was looking at existing models and thinking about the various bugs that they had to deal with .
+the frequency differences in the fir filters was one .
+another thing they wanted to look into was handling additive noise , which they had not dealt with explicitly .

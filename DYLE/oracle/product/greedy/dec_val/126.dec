@@ -1,0 +1,21 @@
+i hope you 're ready for this uh functional design meeting .
+uh you are a market expert simple desires into simple actions .
+i would propose this concept for design , just few buttons , a screen with a back light which can change colours , titanium just few actions , a few actions for everything .
+yeah .
+uh as you know , i am mister ramaro .
+i am an expert in uh industrial design of all electronic devices and i previously devised many uh { disfmarker } like digital calculators and electronic calculators .
+{ vocalsound } so now i 'll briefly describe the working design of our remote control .
+well , as you know the basic function of remote control is sending some message to the the device , like t_v_ or v_c_r_ or d_v_d_ player etcetera .
+so we will have a p portable device which will send message to the the main device like t_v_ .
+so we need to have some energy source to do what { disfmarker } to do the functions , what we want on this portable device .
+{ vocalsound } and usually this { disfmarker } so to do these functions we need an interface , which basically some kind of pressing buttons or keys or like moving jack or something like that .
+and then these messages { disfmarker } these key buttons can be transferred into some kind of message and then it will process by the chip and then it will generate some information to the main device .
+it 's generally in the form of infrared or some kind of s sensor information .
+then we will have the main control in the main device to do the particular action what we want .
+so , basically we need uh since we are focusing on our interface device { gap } remote control mainly the energy source like the battery and then we have user interface like uh the keypad and you know buttons we want , and then we have some chip , it 's mainly digital signal processing chip because since we are { disfmarker } i am one doing mostly digital uh devices we ought to have some kind of processor which take care of all these functions and put it in some digital format .
+and then we 'll have the infrared l_e_d_ source which sends the information to the main device .
+then we 'll have switch in our main uh um device to do particular operations , and we ought to do different codes for different t_v_s , yeah .
+yeah , i 'm sure , because since our user interface { gap } speech recognition and also marketing expert for the speech recognition is really handy , they can make { disfmarker } yeah .
+but speech recogniser can be possible .
+uh , should it be equipped with the uh , with uh speakers ?
+control , think about it .

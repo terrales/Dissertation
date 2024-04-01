@@ -1,0 +1,10 @@
+so he 's { disfmarker } he 's going to be here for about three weeks , yeah , yeah .
+so , um , since we 're looking at putting this , um { disfmarker } mean log m magnitude spectral subtraction , um , into the smartkom system , i i did a test seeing if , um , it would work using past only { comment } and plus the present to calculate the mean .
+so , i did a test , um , { vocalsound } where i used twelve seconds from the past and the present frame to , um , calculate the mean .
+and { disfmarker } with { disfmarker } with a { disfmarker } it 's very similar .
+and that does n't seems to be improving by trying it on the first time .
+so what i did was like i p did this and then you { disfmarker } i plugged in the { disfmarker } one more { disfmarker } the same thing but with the smoothed filter the second time .
+for what ?
+no , you get it with wiener filtering also .
+but not much on the { disfmarker } in the other cases .
+yeah , well , that 's not so much spectral subtraction then , which { disfmarker } which { disfmarker } could n't you try this for that ?

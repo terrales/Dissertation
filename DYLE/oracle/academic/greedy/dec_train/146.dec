@@ -1,0 +1,6 @@
+e for example .
+is the same .
+yeah , i 've been playing with , um uh , using the close - talking mike to do { disfmarker } to try to figure out who 's speaking .
+so my first attempt was just using thresholding and filtering , that we talked about { disfmarker } about two weeks ago , and so i played with that a little bit , and { vocalsound } it works o k , { pause } except that { pause } it 's very sensitive to your choice of { vocalsound } your filter width and your { vocalsound } threshold .
+so if you fiddle around with it a little bit and you get good numbers you can actually do a pretty good job of segmenting when someone 's talking and when they 're not .
+but if you try to use the same paramenters on another speaker , it does n't work anymore , even if you normalize it based on the absolute loudness .

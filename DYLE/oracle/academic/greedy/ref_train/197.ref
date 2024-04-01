@@ -1,0 +1,9 @@
+the team discussed sri experiments , multi-band approaches , latency , vad , and noise addition .
+the mean subtraction approach for sri that relied on a twelve second interval resulted in a zero point three percent improvement over the six second model , not necessarily significant .
+the team thought that training the model on different speeds of speech would be helpful to add to this progress .
+grad a introduced the team to her formal proposal for the qualifier exam .
+the work focused on intermediate classifiers and multi-band graphical models for speech recognition .
+the team then discussed noise removal as well the model phd b was working on did not do well in non-stationary noise environments .
+in general , however , the model had improved .
+the vad was labeling speech as silence segments , which could be attributed to alignment issues .
+the team thought that noise addition techniques might help the model .

@@ -1,0 +1,5 @@
+it was decided that smartkom 's action plans should be represented in xml as a state transition network .
+it was proposed that the term 'dialogue planner ' should replace 'dialogue manager ' .
+prolog will be phased out completely and replaced by java code .
+the dialogue manager must be capable of changing states , i.e .
+go from being event driven to answering a question from a planning module .

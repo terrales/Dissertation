@@ -1,0 +1,3 @@
+the team was filtering out white noise from the digit task using lpc .
+the concern was that lpc was not a great representation of speech .
+the lpc was adding degradation .

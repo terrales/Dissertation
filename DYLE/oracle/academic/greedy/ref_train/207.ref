@@ -1,0 +1,3 @@
+as a functional module , the action planner is too restrictive for the tourist domain and requires complex slots from the dialogue manager .
+interactions in a deep map system between the spatial planner and the route planner are too convoluted .
+smartkom requires a fast and robust parser that includes language-specific extensions .

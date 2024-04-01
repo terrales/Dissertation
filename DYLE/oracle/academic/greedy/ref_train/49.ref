@@ -1,0 +1,5 @@
+the meeting participants discuss results from experiments and challenges that the model was facing .
+there was a significant server side delay , so they could not accommodate silence detection .
+members noted that reducing model dimensions had a detrimental effect on model performance .
+the professor wanted to know the size of words that the word error rate was calculated on and explained that there would be no new training .
+from this point , they can start talking about future directions and work on fixing the system .

@@ -1,0 +1,27 @@
+so , um maybe now we can talk about a user interface and uh about the technical function of this device .
+so uh pet peter , can you talk say something about that ?
+{ vocalsound } yeah , it 's true , but , you know , they 're features that users want , oh .
+presentation three ?
+okay , so here is my presentation about technical function design .
+i will talk about different components and s of system and how they react together .
+okay , uh , first what is a remote control ?
+simply it 's a device , as you know , for uh , for sending some commands by some waves to uh another device to to tell different commands uh with this device .
+and the main idea we do n't use any cable and we can rec react simpler with the device .
+uh i it has different blocks , different blocks .
+uh first is remote control have sh ha should have some electric circuits uh making interface with uh keyboard and uh r reading uh keyboard and reading the keyboard uh commands .
+and then inter then make uh these keyboard commands , uh in interpret these int uh keyboard commands .
+and then there should be uh an electronic circuit making uh electronic signals according to these commands and uh finally there is a transmitter which is a cord or a a diode making uh making uh waves to transmit through the air and uh uh this air this uh wave uh will be received by the by the other device like a television or whatever , to uh r to realise the command .
+okay , { vocalsound } uh about { disfmarker } what i found about uh different uh these different blocks are uh , usually there are two different methods uh to { disfmarker } for designing a remote control .
+they are based on infra-red uh waves or uh uh radio waves .
+but i 'm not sure about the circuit which is responsible for speech recognition .
+this i prefer that we should make ourselves .
+so i agree on using any kind of l_c_d_ , less buttons good for me as a as a designer of the circuit .
+yeah .
+so what do you think would be the price , it would be out of range ?
+well , depends .
+so um i have to inform you i receive an email from the management bon board today and they have new requirements for the for the remote control .
+um well , should we start with just the core , the basic functions that we need .
+but then you do n't want to make the l_c_d_ display too complicated at the same time .
+and the , well the the user it 's just how to a and uh do we need to include anything about the speech recognition and the speech commands , or ?
+yeah but we we should be careful about the battery life , then .
+if we use the speech recognition .

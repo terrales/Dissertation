@@ -1,0 +1,5 @@
+the meeting took place close to the finalization of the model , so participants were focused on further experimentation they could conduct .
+it began with a discussion about how the backend system could be further improved .
+the team thought that perhaps they could tweak language scaling and insertion penalties to see how the model changed its performance .
+then , the team moved into discussing methods for detecting voice segments in their results .
+finally , the team spent some time exploring normalization techniques and acoustic events , both of which could potentially improve model performance .

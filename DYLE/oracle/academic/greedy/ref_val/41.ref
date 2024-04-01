@@ -1,0 +1,2 @@
+last run of experiments showed that adding more languages was still severely harming model performance .
+they noted that normalization of any kind has a good effect on the model , whereas msg does nothing .

@@ -1,0 +1,2 @@
+speaker mn014 trained the system to identify speech from loud versus quiet speakers .
+such pre-segmentation modifications allow the experimenter to specify the minimum length of speech and silence portions desired , and also facilitate the identification of pauses and utterance boundaries .

@@ -1,0 +1,4 @@
+the sri system was doing worse on the hub-five training set for mean subtraction .
+the model performed better on six seconds of training data rather than twelve seconds , but the improvement was only point three percent .
+the professor thought small differences were important for research but not as important in industry .
+one suggestion for further work was changing speech rate using the algorithm , though it came at the risk of degrading the data .

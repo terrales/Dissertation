@@ -1,0 +1,3 @@
+the team used ogi features that then passed through a contextualized klt , an mlp , and a low-pass filter .
+the highly mismatched italian part was still not working well .
+the team tried using silence detection to improve performance , but the results were not too promising .

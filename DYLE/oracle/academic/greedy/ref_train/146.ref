@@ -1,0 +1,3 @@
+grad h has been experimenting with using the close - talking mike to decipher who is speaking .
+the first attempt was thresholding and filtering , which is very sensitive to the choice of filter width and threshold .
+it does allow for effective segmenting when someone 's talking and when they are not .

@@ -1,0 +1,5 @@
+the group discussed efforts to train and test the aurora group 's htk-based recognition system on icsi 's digits corpus .
+members also discussed efforts to produce forced alignments from a selection of meeting recorder data .
+performance in both tasks was adversely affected by the manner of recording conditions implemented and difficulties attributing utterances to the appropriate speakers .
+while debugging efforts resulted in improved forced alignments , dealing with mixed channel speech and speaker overlap remains a key objective for future work .
+the group is additionally focused on a continued ability to feed different features into the recognizer and then train the system accordingly .

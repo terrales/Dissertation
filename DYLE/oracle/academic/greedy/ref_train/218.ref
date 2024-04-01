@@ -1,0 +1,9 @@
+the team was setting up a new project in which they would record meetings and then generate summaries .
+the meeting began with introductions and a discussion of what kind of data the team could collect .
+they considered collecting visual data as well as notes .
+at the end of the meetings , the team wanted to ask participants to summarize what they took away as well as ask questions about the meeting .
+this would be a method for collecting more data to train a potential summarization model .
+one concern the team had was how they could reduce bias when collecting queries .
+words like `` important '' could skew participant responses .
+the team also expressed some interest in collecting action items .
+finally , the team discussed what each member should do to get the project up and running and the role of diversity in their data set .

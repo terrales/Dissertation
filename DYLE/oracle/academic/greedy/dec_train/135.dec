@@ -1,0 +1,15 @@
+and see .
+yes .
+so , if you were just adjusting the back - end , how much better would you do , uh , in noise ?
+uh , because the language scaling and insertion penalties and so forth are probably set to be about right for mel cepstrum .
+no results ?
+yeah .
+it 's not .
+being applied to the data in some way .
+could be expensive .
+no and so th the , uh { disfmarker } for the tandem system , the values that come out of the net do n't go through the sigmoid .
+right ?
+they 're sort of the pre - nonlinearity values ?
+uh , almost .
+but then you actually do a klt on them .
+they both want their cut .

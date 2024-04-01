@@ -1,0 +1,13 @@
+so combo is um a system where we have these features that go through a network and then this same string of features but low - pass filtered with the low - pass filter used in the msg features .
+and so these low - pass filtered goes through m eh { disfmarker } another mlp and then the linear output of these two mlp 's are combined just by adding the values and then there is this klt .
+um the output is used as uh features as well .
+the first is a klt using several frames of the features .
+uh , mlp uh not yet .
+uh ok so the one { disfmarker } one place where it looks like we 're messing things up a bit is in the highly mismatched italian .
+uh so one of the ideas that you had mentioned last time was having a { disfmarker } a second um silence detection .
+yeah .
+so there are some results here except i do n't know because they { disfmarker } i think they are still working well .
+and { disfmarker } and that looks like an interesting one too .
+it 's in fact ogi two .
+well , it is .
+not five pm , three pm .

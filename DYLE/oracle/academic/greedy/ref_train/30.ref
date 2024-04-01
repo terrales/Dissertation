@@ -1,0 +1,2 @@
+current speech alignment techniques assume that foreground speech must be continuous and , barring some isolated words and backchannels , can not cope with overlapping background speech .
+performing adaptations on both the foreground and background speaker produced a new variety of misalignments , a problem resulting , in part , from the fact that background speakers often match better to foreground conditions .

@@ -1,0 +1,7 @@
+the meeting began with an update on the voice-unvoice detection .
+the professor suggested the solution might just be feeding the log magnitude of the spectrum into a simple neural net .
+the team then had a brief discussion about some confusing formula on the france telecom proposal .
+following this , the team talked about how to pick out the most important acoustic events .
+then , grad a introduced the team to phonological matchings that he was working on using support vector machines .
+the goal was to map mfcc 's to phonological features .
+the team concluded by discussing a potential bug which led to a significant difference between plp and mel cepstrum and the fft method that they were exploring .

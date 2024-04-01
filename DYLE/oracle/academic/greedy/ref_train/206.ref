@@ -1,0 +1,2 @@
+smartkom should feature a well defined core interface , with domain-specific information kept external .
+a syntactic analysis component that performs chunk parsing will be added to the system .

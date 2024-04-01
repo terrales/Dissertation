@@ -1,0 +1,24 @@
+uh , do you want to start , stephane ?
+alright .
+um .
+well , the first thing maybe is that the p eurospeech paper is , uh , accepted .
+um .
+yeah .
+cool .
+great .
+uh , ok .
+well , in my lunch talk last week i { disfmarker } i said i 'd tried phase normalization and gotten garbage results using that l um , long - term mean subtraction approach .
+it turned out there was a bug in my matlab code .
+so i tried it again , um , and , um , the results { vocalsound } were { disfmarker } were better .
+i got intelligible speech back .
+but they still were n't as good as just subtracting the magnitude { disfmarker } the log magnitude means .
+and also i 've been talking to , um , andreas and thilo about the , um , smartkom language model and about coming up with a good model for , um , far mike use of the smartkom system .
+so i 'm gon na be working on , um , implementing this mean subtraction approach in the { vocalsound } far - mike system { disfmarker } for the smartkom system , i mean .
+and , um , one of the experiments we 're gon na do is , um , we 're gon na , um , train the { disfmarker } a broadcast news net , which is because that 's what we 've been using so far , and , um , adapt it on some other data .
+um , an - andreas wants to use , um , data that resembles read speech , like { pause } these digit readings , because he feels that the smartkom system interaction is not gon na be exactly conversational .
+i ask you that question every meeting .
+`` what is vts ?
+`` x k c noise .
+yeah .
+it 's fixed , the dictionary .
+and the { disfmarker }

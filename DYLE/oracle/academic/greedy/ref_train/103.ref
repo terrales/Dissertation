@@ -1,0 +1,2 @@
+the actual number of the inputs in the bayes-net can create a combinatorial explosion when setting the probabilities .
+noisy-or 's can help avoid this by simplifying the probability tables and applying a deterministic function to produce their complete version .

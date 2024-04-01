@@ -1,0 +1,3 @@
+f was concerned about how the time labels would adjust to smaller phonetic units .
+f inquired if the time boundaries could be changed by propagating new information throughout the xml .
+f thought that they could configure different xml files to deal with different units , but it would lead to large file sizes .

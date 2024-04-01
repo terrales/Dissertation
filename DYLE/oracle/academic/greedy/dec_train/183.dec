@@ -1,0 +1,11 @@
+yesterday morning on video conference .
+so they had two filters , one for the low frequency bands and another for the high frequency bands .
+and so we redesigned two filters .
+and the low frequency band has sixty - four milliseconds of delay , and the high frequency band filter has something like eleven milliseconds compared to the two hundred milliseconds of the iir filters .
+but it 's not yet test .
+so we have the filters but we still have to implement a routine that does recursive filtering was n't there { disfmarker } was it in the , uh , recurrent neural nets where they were n't looking ahead at all ?
+could be .
+and then uh which is more important during silence portions , oh , yeah .
+that 's what spectral subtraction will help with , practically speaking .
+but , like frication , an obstruction between them .
+that could help though .

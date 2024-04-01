@@ -1,0 +1,5 @@
+c thought that other options have a big learning curve , which should be taken into account , and that a flat format works well .
+a flat file format may not be fast , but everyone can handle it .
+c believed that quick and dirty solutions should be balanced with long-term infrastructural solutions .
+for instance , perl can be paired with external representations of atlas files to create a working system .
+c also suggested that alternatives to p files might be interesting too , though the disadvantage would , once again , be the learning curve .

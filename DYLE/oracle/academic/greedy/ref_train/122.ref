@@ -1,0 +1,1 @@
+speaker c ’ s efforts to detect speech/non-speech portions in the mixed signal ( using an hmm-based detector with gaussian mixtures ) have produced pre-segmentations that facilitate the transcription effort .

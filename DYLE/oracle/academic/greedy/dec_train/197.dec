@@ -1,0 +1,21 @@
+um , but the case , uh { disfmarker } with the point three percent hit was { vocalsound } using six seconds in test , um , comparing train on twelve seconds { comment } versus train on six seconds .
+the train on twelve seconds .
+could be .
+i do n't know .
+for the clean training .
+so it 's improvement over the baseline mel cepstrum ?
+right ?
+so that 's not as good as the one up above .
+so they add a random { disfmarker } random noise to it .
+and they had a very good result .
+so , yeah , there are two figures showing actually the , mmm , um , performance of the current vad .
+so it 's a n neural network based on plp parameters , uh , which estimate silence probabilities , and then i just put a median filtering on this to smooth the probabilities , right ?
+um { disfmarker } i did n't use the { disfmarker } the scheme that 's currently in the proposal because { vocalsound } i do n't want to { disfmarker } in the proposal { disfmarker } well , in { disfmarker } in the system we want to add like speech frame before every word and a little bit of { disfmarker } of , uh , s a couple of frames after also .
+uh , but to estimate the performance of the vad , we do n't want to do that , because it would artificially increase the um { disfmarker } the false alarm rate of speech detection .
+right ?
+um , so , there is u normally a figure for the finnish and one for italian .
+and maybe someone has two for the italian because i 'm missing one figure here .
+i mean , the mlp 's not trained on finnish .
+so the vad was trained on maybe different set of labels for channel zero and channel one maybe we might do it before , we would { disfmarker } the { disfmarker } the a the noise addition should be lower well , maybe .
+before i started working on this aurora .
+to use clean speech .

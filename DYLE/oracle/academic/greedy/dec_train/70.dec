@@ -1,0 +1,21 @@
+so .
+so .
+i { vocalsound } { vocalsound } i have to be more careful about using that as a { disfmarker } as a { disfmarker } { vocalsound } as a good illustration , uh , in fact it 's not , of uh { disfmarker } { vocalsound } of the effects of room reverberation .
+it is is n't a bad illustration of the effects of uh room noise .
+{ vocalsound } on { disfmarker } on uh some mikes uh but so .
+and then we had this other discussion about um { vocalsound } whether this affects the dynamic range , cuz i know , although we start off with thirty two bits , you end up with uh sixteen bits and { vocalsound } you know , are we getting hurt there ?
+but uh dan is pretty confident that we 're not , that { disfmarker } that quantization error is not { disfmarker } is still not a significant { vocalsound } factor there .
+so .
+so there was a question of whether we should change things here , whether we should { vocalsound } change a capacitor on the input box for that or whether we should for uh { disfmarker } { vocalsound } oh , for eurospeech ?
+so it would be for the first deadline .
+but not of reverberation .
+the energy .
+so .
+there is just some filtering with the lda and { vocalsound } and some downsampling , upsampling .
+you 're more interested in the difference between the speech and the nonspeech , so we could perhaps do just mean normalization before vad .
+yeah but i { disfmarker } it 's uh { disfmarker } i think you were talking about the other mail that used vad on the reference features .
+it was just better .
+and { disfmarker } uh working towards june .
+to work uh here in voiced - unvoiced detection .
+and that { disfmarker } that is another way of getting rid of part of the noise they did n't .
+so we 're talking about something a little different .

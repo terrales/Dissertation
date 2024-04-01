@@ -1,0 +1,4 @@
+the bayes-net is going to be the focus of the presentation .
+in order to complete a functioning prototype of the belief-net , it was decided to start expanding the ontology and discourse nodes by working with a simple construction , like `` where is x ? ''
+.
+a robust analysis of such a basic utterance will indicate what the limits of the information derived from the construction are , as well as ways to design the whole module and fit other constructions in .

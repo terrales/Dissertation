@@ -1,0 +1,5 @@
+the low f f um , we had a silence detector , so we would look for the end of an utterance based on the silence detector .
+this w so that 's all it is .
+it 's a sig it 's a sigmoid , uh , with weighted sum at the input , which you train by gradient { pause } descent .
+other low level detectors ?
+yeah .

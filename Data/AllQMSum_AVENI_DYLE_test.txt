@@ -1,0 +1,2690 @@
+
+***** Running evaluation *****
+  Num examples = 40
+  Batch size = 1
+100%|███████████████████████████████████████████████████████████████████████████████████████| 40/40 [02:33<00:00,  3.84s/it]
+100%|█████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00, 72.19it/s]
+
+
+
+
+---------------------------------------------
+1 ROUGE-1 Average_R: 0.41046 (95%-conf.int. 0.34783 - 0.47426)
+1 ROUGE-1 Average_P: 0.15661 (95%-conf.int. 0.12906 - 0.18465)
+1 ROUGE-1 Average_F: 0.19987 (95%-conf.int. 0.16895 - 0.23033)
+---------------------------------------------
+1 ROUGE-2 Average_R: 0.07141 (95%-conf.int. 0.03979 - 0.11090)
+1 ROUGE-2 Average_P: 0.03010 (95%-conf.int. 0.01835 - 0.04507)
+1 ROUGE-2 Average_F: 0.03971 (95%-conf.int. 0.02329 - 0.06167)
+---------------------------------------------
+1 ROUGE-L Average_R: 0.36411 (95%-conf.int. 0.30103 - 0.43001)
+1 ROUGE-L Average_P: 0.13277 (95%-conf.int. 0.10971 - 0.15591)
+1 ROUGE-L Average_F: 0.16985 (95%-conf.int. 0.14388 - 0.19706)
+
+0.19987 0.03971 0.16985
+
+
+
+
+---------------------------------------------
+1 ROUGE-1 Average_R: 0.61475 (95%-conf.int. 0.56134 - 0.66941)
+1 ROUGE-1 Average_P: 0.04332 (95%-conf.int. 0.03483 - 0.05180)
+1 ROUGE-1 Average_F: 0.07737 (95%-conf.int. 0.06337 - 0.09058)
+---------------------------------------------
+1 ROUGE-2 Average_R: 0.10741 (95%-conf.int. 0.07293 - 0.14827)
+1 ROUGE-2 Average_P: 0.00742 (95%-conf.int. 0.00505 - 0.01010)
+1 ROUGE-2 Average_F: 0.01363 (95%-conf.int. 0.00922 - 0.01863)
+---------------------------------------------
+1 ROUGE-L Average_R: 0.58846 (95%-conf.int. 0.53089 - 0.64613)
+1 ROUGE-L Average_P: 0.04050 (95%-conf.int. 0.03271 - 0.04854)
+1 ROUGE-L Average_F: 0.07238 (95%-conf.int. 0.05961 - 0.08505)
+
+0.07737 0.01363 0.07238
+
+
+Pred:
+adviser : so first of all , we do n't give advice on , uh , risk category six investments .
+that would be kind of like , you know , more highly volatile asset classes , speculative investments , or going into direct stock or shareholding .
+so if you did want a very high risk investment , they would nix it because they would n't be the best place for you to invest in and you 'd probably be sophisticated enough to be in choosing your own investments anyway .
+what we 're looking at really is the one to five range .
+--------------------
+topk:
+well , as a tricky one , um , really the main reason i 'm seeking advice is because i 'm not an expert when it comes to financial planning .
+i understand the basics of general and isa products , but when it comes to pensions , i 'm pretty clueless .
+i 've got a large workplace pension , and i want to make sure that i 'll have enough money when i come to retirement .
+um , in terms of the question of why acme limited , i was referred by my friend carol .
+she 's been with acme for years and could n't speak highly enough of you , um , as a , as a business .
+so i thought i should give it a go .
+so first of all , we do n't give advice on , uh , risk category six investments .
+that would be kind of like , you know , more highly volatile asset classes , speculative investments , or going into direct stock or shareholding .
+so if you did want a very high risk investment , you know , we would n't be the best place for you to invest in and you 'd probably be sophisticated enough to be in choosing your own investments anyway .
+so what we 're looking at really is the , uh , the one to five range .
+okay , so you came out as a medium to high risk , which we class as a risk category four .
+um , so i 'm just gon na read you the paragraph , um , for medium to high risk investment , okay ?
+and then i 'm gon na read the one above and the one below , and please just be honest and tell me whether you think you agree , uh , or whether you disagree and perhaps you would clash yourself as a high risk or a medium risk investor .
+brilliant .
+good to know .
+yeah , i i do know carol .
+she 's , she 's a lovely lady .
+um , great .
+no , that 's great .
+it 's all , it 's all about establishing your , uh , your motivation , so that 's really good to know .
+right .
+well , let us now jump into the , into the fact find , and that 's really where we take all of your data about your current circumstances , just gain a good understanding of your current situation .
+so just before we jump into your assets , um , i just want to get to know you a bit better , mr. smith .
+so you , you mentioned your colleagues , i 'm assuming you 're , you 're still working on a full-time basis ?
+okey-doke .
+so i think i 've covered off the formalities of the meeting .
+so let 's dive into the main agenda .
+so i guess what i would first like to establish are your reasons for seeking advice .
+why acme limited ?
+why now ?
+no , that 's been invested since 2008. you 'll be pleased to know i 'm almost through the formalities now .
+um , so last couple of points really .
+um , now , although we 're not a bank , we are covered under the financial services compensation scheme .
+what that means in practice is that your investments are protected up to 85,000 pounds , which mirrors a bank deposit for you .
+okay .
+so with regards to our services and solution , um , okay , so this just shows you , uh , that the advice i can provide under my restricted license so i can provide advice on your protection needs , retirement solutions , investment solutions , and estate planning , everything we discussed earlier in the meeting .
+uh , we do also have specialist advisors within the team that can provide retirement structuring as well .
+so that 's when you kind of reach the point where you 're looking to start generating an income from your pension or other parts of money .
+um , you know , thankfully we 're not there today .
+so really what we 're gon na be focusing on is accumulating your wealth .
+um , so , you know , looking at how different investment products could help you achieve your goals , thinking it 's definitely worthwhile having a conversation , um , if we can , about your protection needs , which really underpins your long-term financial plans .
+um , and we can discuss estate planning .
+so again , potentially looking at whether there 's , uh , an inherent tax liability and whether no , just me on my own .
+okay .
+uh , and , and based on that , you can decide whether you want to implement those changes or not .
+um , that 's , that 's wholly up to you .
+now , ongoing advice , currently ongoing advice is five basis points , 0.5 % per annum .
+it 's taken monthly in arrears from your products .
+you 're not gon na face a bill at the end of each year .
+um , but that ongoing advice review covers the cost of today 's meeting .
+and it means that if you wanted to invest new money either into your portfolio or into a new on-platform product , we will not charge you the one-off advice fee , which is 1.5 % , which you have paid when you first established your portfolio .
+and when is retirement for you ?
+hi .
+sorry , sorry , the paceman .
+so risk category four s are choosing these investments which will mean you risk loss of capital , but you have the potential for a relatively good capital growth over the medium to long term .
+there are no guarantees and you can expect fluctuations in the capital value , whereas risk category five , these investments carry a high risk of capital loss , but have the potential to deliver high growth over the medium to long term .
+you should be prepared for your capital value to fluctuate significantly .
+um , and they do not offer any guarantees .
+and then the one below , so risk category three , medium risk , there is a risk that you will lose some capital value if you choose this portfolio .
+um , but you do have the potential for capital growth over the medium to long term .
+these investments typically come without any guarantees , and again , they 're gon na fluctuate capital value .
+okay ?
+so what 's similar with all the risk profiles as you can see , is that they all carry capital risk .
+okay ?
+so with any investments , you know , if you 're moving your money outta cash and you 're going to other asset classes , you will tend to see that your value will fluctuate .
+um , and i 'm assuming correctly that you 're quite experienced with that because of your portfolio ?
+yeah , that sounds good .
+yes .
+yeah , i 've been with my company a long time now , uh , about 20 years .
+and if i was to ask you , you know , what , uh , what 's the main benefit for you to speaking to an advisor ?
+what would be your answer ?
+yep .
+yeah , i 'm fine with that .
+that 's right , yes .
+okay , sounds good .
+for me , it 's just simply that i 've got , um , got a person to go , you know , uh , a go-to person .
+i have somebody that i can sit down , discuss , explore things , check things .
+i find it really valuable .
+so , you know , it 's , it 's the peace of mind you get , i suppose , from discussing it with someone who knows what they 're actually doing .
+the 25th of november , 1999. no , nothing in the plan .
+--------------------
+Ref:
+the client is seeking advice because of his lack of expertise in financial planning .
+he wants to ensure that he will have enough money for retirement , and he chose acme limited because his friend carol recommended the company .
+the client values the peace of mind that comes from consulting with a knowledgeable advisor .
+--------------------
+
+==================================================
+Pred:
+adviser wanted to fully understand what your goals and aspirations were , for now and for the future .
+to help me do that , what they 're gon na be doing is completing what i would call a life plan , which would focus in on your home , your occupation , family and lifestyle , and what are your plans for each area over the medium to long term .
+based on these plans , they would then discuss how these would be achieved .
+the group would open up the discussion , discuss any other matters that perhaps you may not have thought about .
+--------------------
+topk:
+okay .
+so it definitely sounds like you 're maintaining a busy lifestyle if you 're earning the money , it 's good to spend it on things that you 're enjoying doing .
+no , i 'm very comfortable where i am because um , it 's , you know , i 'm close to where i work , so i do n't have a very long commute .
+i 've got all the amenities , everything around me .
+so i think this is going to be my home for life .
+um , i mean , i 'd like to get a bit of decoration done , bring it up to date and um , you know , do a , do a bit .
+i do try and do a bit every year , buy new stuff for the house , just make it look a bit nicer really .
+for me , it 's just simply that i 've got , um , got a person to go , you know , uh , a go-to person .
+i have somebody that i can sit down , discuss , explore things , check things .
+i find it really valuable .
+so , you know , it 's , it 's the peace of mind you get , i suppose , from discussing it with someone who knows what they 're actually doing .
+okay , so thank you for that .
+that 's really given me a good understanding of obviously where you are now , uh , what you 're trying to achieve .
+um , you know , when you kind of go past into retirement , it 's gon na be kinda much of the same in the sense that you want to continue traveling and enjoy this active , healthy lifestyle that you currently live .
+good , good .
+so there 's four years , i just wan na focus on which again is your home , occupation , family and lifestyle .
+so we 'll start with your current residence .
+so your current main residence .
+do you enjoy where you live ?
+do you have any kind of plans , the upsize downsize or a move ?
+i 'm just wanting to get like a new sofa , a couple rugs and stuff , you know , well just , uh , up update things really .
+so i 'm thinking , uh , around , i do n't expect it to cost more than about 10,000 pounds , i think .
+yeah , no , absolutely .
+um , so the last part of your kinda life plan i just wanted to touch upon is your current lifestyle .
+so i understand we can do a job , um , uh , for you , but i want to understand what , you know , what do you do outside of work ?
+you know , what pleases you , what gives you enjoyment in life ?
+yeah , absolutely .
+would n't , would n't we all .
+um , and obviously the portfolio naturally produces income , uh , that income is reinvested for you at the moment .
+still happy with that , mr. smith ?
+i mean , i 've been very , very lucky because i 've got some really good tenants in there .
+um , they 've been in there long term .
+they do n't give me much trouble at all .
+i think because i kept , i keep the rent , um , quite low just to keep them there because i 'd rather that they , um , they treat it like a home and as long as they stay , i have no plans .
+i 'm happy with the situation as it is and um , i 've always seen it just as a means to provide a bit more financial security when i retire .
+really .
+yeah , yeah .
+uh , i 've been , um , i 've been very lucky , to be honest .
+um , obviously not that lucky .
+i , i 've lost relatives , um , because , uh , but , but that means i 've inherited money , uh , and the property at quite an early age , to be honest .
+so , which has n't really given me , uh , it 's really given me that boost into the market .
+so hence a lot of my assets are due to me being able to have no mortgage at this age , um , which i absolutely understand .
+i 'm very , very fortunate to be in that position .
+and then i just want to fully understand kind of what your goals and aspirations are , um , for now and for the future .
+um , and to help me do that , what we 're gon na be doing is completing what i would call a life plan , which we 'll really focus in on your home , your occupation , your family , and your lifestyle , and what are your plans for each area over the medium to long term .
+okay ?
+uh , and based on your aspirations for the future , we can then discuss how these will be achieved .
+okay .
+um , and we can open up the discussion , discuss any other matters that perhaps you may not have thought about .
+and then based on that , we 'll agree on the next steps .
+perfect .
+thank you .
+now i 've seen you hopefully i wo n't have to ask you those questions again in the future .
+okay .
+so today 's meeting , i 'm going to be obviously gaining understanding of your current financial position .
+um , i have pretty much completed fact find from your last meeting with your previous advisor , but i think it would still be prudent to go through your assets one more time .
+just make sure that all the information we hold is still rela relative , uh , and correct .
+yeah , i do n't need any more income at the moment .
+i just want the funds to keep greg .
+i 'm a huge , huge fan of traveling .
+i 've been lucky enough to travel , um , to africa , south america , the far east , but there 's always more places i 'd like to visit .
+um , i 'd like to think that i had enough money when i retire to keep traveling .
+health permitting .
+okay , so kind of like more decorations than , than major renovations .
+yeah , it 's , it 's always , it 's always funny when you , when you put it down on paper , just having it kinda laid out , you know , it 's a nice exercise to , to go through .
+it clearly just shows obviously what 's , what 's liquid , what 's tied up , what 's there to be spent .
+it 's just , yeah , it 's always a beneficial exercise to , to go through , especially when you come out as being a millionaire .
+um , so i guess with regards to your , uh , we 've obviously gone through your , your balance sheet with regards to your expenditure .
+um , i can see that your monthly bills come to around 600 pounds .
+you 've got things like your car , transport costs , uh , general food , drinks , housekeeping , holidays , entertainment , and then other expenditure , which , you know , based on what you 've got coming in , you 've got a decent amount of surplus income .
+would you say that 's reflected in your current account at the moment ?
+no , not just now .
+no , just me on my own .
+okay , good .
+so your second property , the one that 's currently rented out , any plans for that property ?
+okay .
+and i can see that you 've also made a will back in 2008 , and the notes that , uh , the notes that have kindly been left to me is that your estate is first of all left to your cousin , billy , uh , yep .
+and mary , 25 % each .
+um , and then you 've got a god daughter serena , uh , as well .
+is that , is that right ?
+--------------------
+Ref:
+the client has been working at bugs and co. for about 20 years , and he is currently a senior lab technician .
+he is currently single and enjoys his busy life , feeling content without a partner .
+he maintains good health by going to the gym .
+both of his parents have passed away , and he has no siblings .
+the client is close to his goddaughter , serena .
+in terms of his career , he finds his job fulfilling and has no aspirations to leave as long as the company remains open .
+in his personal life , he enjoys travelling , especially going on big international vacations every other year with his best friend nikki .
+they also go on european city breaks in between those trips .
+--------------------
+
+==================================================
+Pred:
+adviser : and then i just want to fully understand kind of what your goals and aspirations are , for now and for the future .
+to help me do that , what we 're gon na be doing is completing what i would call a life plan , which would focus in on your home , your occupation , family , and lifestyle .
+and what are your plans for each area over the medium to long term .
+based on these aspirations , we can then discuss how these will be achieved .
+--------------------
+topk:
+okay .
+so it definitely sounds like you 're maintaining a busy lifestyle if you 're earning the money , it 's good to spend it on things that you 're enjoying doing .
+okay , so thank you for that .
+that 's really given me a good understanding of obviously where you are now , uh , what you 're trying to achieve .
+um , you know , when you kind of go past into retirement , it 's gon na be kinda much of the same in the sense that you want to continue traveling and enjoy this active , healthy lifestyle that you currently live .
+no , i 'm very comfortable where i am because um , it 's , you know , i 'm close to where i work , so i do n't have a very long commute .
+i 've got all the amenities , everything around me .
+so i think this is going to be my home for life .
+um , i mean , i 'd like to get a bit of decoration done , bring it up to date and um , you know , do a , do a bit .
+i do try and do a bit every year , buy new stuff for the house , just make it look a bit nicer really .
+for me , it 's just simply that i 've got , um , got a person to go , you know , uh , a go-to person .
+i have somebody that i can sit down , discuss , explore things , check things .
+i find it really valuable .
+so , you know , it 's , it 's the peace of mind you get , i suppose , from discussing it with someone who knows what they 're actually doing .
+yeah , absolutely .
+would n't , would n't we all .
+um , and obviously the portfolio naturally produces income , uh , that income is reinvested for you at the moment .
+still happy with that , mr. smith ?
+good , good .
+so there 's four years , i just wan na focus on which again is your home , occupation , family and lifestyle .
+so we 'll start with your current residence .
+so your current main residence .
+do you enjoy where you live ?
+do you have any kind of plans , the upsize downsize or a move ?
+i 'm a huge , huge fan of traveling .
+i 've been lucky enough to travel , um , to africa , south america , the far east , but there 's always more places i 'd like to visit .
+um , i 'd like to think that i had enough money when i retire to keep traveling .
+health permitting .
+and then i just want to fully understand kind of what your goals and aspirations are , um , for now and for the future .
+um , and to help me do that , what we 're gon na be doing is completing what i would call a life plan , which we 'll really focus in on your home , your occupation , your family , and your lifestyle , and what are your plans for each area over the medium to long term .
+okay ?
+uh , and based on your aspirations for the future , we can then discuss how these will be achieved .
+okay .
+um , and we can open up the discussion , discuss any other matters that perhaps you may not have thought about .
+and then based on that , we 'll agree on the next steps .
+i 'm just wanting to get like a new sofa , a couple rugs and stuff , you know , well just , uh , up update things really .
+so i 'm thinking , uh , around , i do n't expect it to cost more than about 10,000 pounds , i think .
+and would you say , and what would you say really are the sorts of activities , the lifestyle that you 'd like to lead in retirement ?
+yeah , i do n't need any more income at the moment .
+i just want the funds to keep greg .
+yeah , no , absolutely .
+um , so the last part of your kinda life plan i just wanted to touch upon is your current lifestyle .
+so i understand we can do a job , um , uh , for you , but i want to understand what , you know , what do you do outside of work ?
+you know , what pleases you , what gives you enjoyment in life ?
+i mean , i 've been very , very lucky because i 've got some really good tenants in there .
+um , they 've been in there long term .
+they do n't give me much trouble at all .
+i think because i kept , i keep the rent , um , quite low just to keep them there because i 'd rather that they , um , they treat it like a home and as long as they stay , i have no plans .
+i 'm happy with the situation as it is and um , i 've always seen it just as a means to provide a bit more financial security when i retire .
+really .
+and if i was to ask you , you know , what , uh , what 's the main benefit for you to speaking to an advisor ?
+what would be your answer ?
+okay , so kind of like more decorations than , than major renovations .
+no , not just now .
+no , just me on my own .
+okay , fantastic .
+good .
+so i know now kind of where you are currently financially , uh , et cetera .
+i want to start exploring your longer term plans .
+okay .
+and i mentioned at the beginning of this meeting , um , it 's co completing what we call a fa a life plan .
+so just to help me understand kind of your future aspirations and your long-term goals .
+so what you can see on the screen at the moment , this is , this is call avoidance , uh , this is our cash modeling tool .
+okay .
+i want to focus mainly on the timeline at today 's meeting , but really what the cash modeling tool does for us , mr. smith , is it kind of uses all of your current informations , all the information you 've provided with with regard to your income , your assets , and your expenditure .
+and it helps us start to model , so some what if scenarios based on what you 're trying to achieve for the future .
+so it helps me to see if you wanted to retire at the age of say 67 , will you have enough assets to support you financially , will you have enough income ?
+um , and we can also take account of any kinda specific plans that you may have , uh , just to make sure that they 're stress tested so that you can achieve them .
+so hopefully that will kind of alleviate any fears that you may or may not have for the long term .
+definitely .
+i mean , i would hope nick and i are , uh , both the , the same age , so i would hope health allowing , you know , at least until the age of 80 that i can carry on doing the same sort of thing .
+perfect .
+thank you .
+now i 've seen you hopefully i wo n't have to ask you those questions again in the future .
+okay .
+so today 's meeting , i 'm going to be obviously gaining understanding of your current financial position .
+um , i have pretty much completed fact find from your last meeting with your previous advisor , but i think it would still be prudent to go through your assets one more time .
+just make sure that all the information we hold is still rela relative , uh , and correct .
+--------------------
+Ref:
+the client has expressed a strong desire to continue travelling to new destinations with his best friend in the future .
+additionally , he is content with his current occupation and can see himself working until at least age 67 , potentially going part-time a few years before .
+he looks forward to maintaining this active and fulfilling lifestyle well into his 80s , as long as his health allows .
+--------------------
+
+==================================================
+Pred:
+adviser : yeah , no , absolutely .
+fantastic .
+so let me just summarize .
+at the moment , you 've got no unencumbered properties , one of them being your main residence , the other that you were renting out and currently receiving rental income for .
+you have a really strong cash position , which is currently sitting in cash .
+recently this has been built up primarily from surplus income , and as well as receiving inheritance , in the past from your late mother and your father .
+--------------------
+topk:
+no , that 's been invested since 2008. yes , so i inherited that property from my late father .
+no , just me on my own .
+yeah , i do n't need any more income at the moment .
+i just want the funds to keep greg .
+yeah , absolutely .
+would n't , would n't we all .
+um , and obviously the portfolio naturally produces income , uh , that income is reinvested for you at the moment .
+still happy with that , mr. smith ?
+for me , it 's just simply that i 've got , um , got a person to go , you know , uh , a go-to person .
+i have somebody that i can sit down , discuss , explore things , check things .
+i find it really valuable .
+so , you know , it 's , it 's the peace of mind you get , i suppose , from discussing it with someone who knows what they 're actually doing .
+definitely .
+and do you manage the property yourself or is it done via a letting agent ?
+and when is retirement for you ?
+yeah , no , absolutely .
+and , and the current value , would you state it 's still worth around 400,000 ?
+no , not just now .
+okay .
+and i can see that you 've also made a will back in 2008 , and the notes that , uh , the notes that have kindly been left to me is that your estate is first of all left to your cousin , billy , uh , yep .
+and mary , 25 % each .
+um , and then you 've got a god daughter serena , uh , as well .
+is that , is that right ?
+yep .
+yeah , i 'm fine with that .
+yeah , no , absolutely .
+fantastic .
+so let me just summarize .
+so at the moment , you 're , you 're single , you 've got enough financial dependence , you know , financial liabilities , um , you 've got no unencumbered properties , one of them being your main residence , the other that you 're renting out and currently receiving rental income for .
+um , you have a really strong cash position , you 've got a total of 447,000 pounds currently sitting in cash , which is fantastic .
+um , you 've told me that , uh , recently this has been built up primarily from surplus income , um , and as well as receiving inheritance , uh , in the past from your late mother and your late father .
+hi .
+sorry , sorry , the paceman .
+yeah , there 'll be month to month fluctuations , but all in all , i 'd say so .
+okay .
+uh , and , and based on that , you can decide whether you want to implement those changes or not .
+um , that 's , that 's wholly up to you .
+now , ongoing advice , currently ongoing advice is five basis points , 0.5 % per annum .
+it 's taken monthly in arrears from your products .
+you 're not gon na face a bill at the end of each year .
+um , but that ongoing advice review covers the cost of today 's meeting .
+and it means that if you wanted to invest new money either into your portfolio or into a new on-platform product , we will not charge you the one-off advice fee , which is 1.5 % , which you have paid when you first established your portfolio .
+that 's it .
+yeah , that , that sounds like a good summary of , of what i was trying to say , okay , cool .
+sure , that sounds good .
+oh , definitely as , as an income .
+um , i see the rental , uh , i , i see this rental income as , you know , what 's going to become something i 'm gon na become reliant upon , as i say , um , have not had to , had to use the pension fund up till now .
+so i 've always thought of my investments and this property as to what 's gon na provide me , you know , it , it means , um , to have a bit of a life when , when i do retire .
+okay .
+and i 've got it here that you 've still got your second property as well , which i believe is rented out and provides some level of additional income to you .
+--------------------
+Ref:
+the client 's job provides him income , and he has a big workplace pension built up for retirement .
+he has rental income from a second property that is rented out , and money invested that can provide him an additional source of income .
+--------------------
+
+==================================================
+Pred:
+adviser explained that retirement really was determined by your financial wellbeing .
+some people choose not to retire because they were mentally there in a happier place .
+they worked , other people had still got a mortgage to pay off or a family to support .
+in that sense , retirement was a very fortunate position , already because you did n't have any liabilities .
+the portfolio naturally produced income , reinvested for you at the moment .
+still happy with that , mr. smith added that he would like to manage the property himself or through a letting agent .
+--------------------
+topk:
+no , that 's , that 's quite all right .
+do n't worry .
+i 'm , i 'm very much used to it in this , uh , this working from home environment that we all live in .
+um , okay , brilliant .
+so just to , just to recap what we left off .
+so you 've also got money invested that we 're managing for you .
+um , you 're utilizing your ice allowance each year as well as your capital gains tax allowance .
+and you told me , because you find pensions complex , you mainly see your investment as a way of supporting you financially as and when you decide to retire from work .
+yeah , absolutely .
+would n't , would n't we all .
+um , and obviously the portfolio naturally produces income , uh , that income is reinvested for you at the moment .
+still happy with that , mr. smith ?
+yeah , i do n't need any more income at the moment .
+i just want the funds to keep greg .
+yes , so i inherited that property from my late father .
+definitely .
+and do you manage the property yourself or is it done via a letting agent ?
+no , that 's been invested since 2008. no , just me on my own .
+and when is retirement for you ?
+i 'm a huge , huge fan of traveling .
+i 've been lucky enough to travel , um , to africa , south america , the far east , but there 's always more places i 'd like to visit .
+um , i 'd like to think that i had enough money when i retire to keep traveling .
+health permitting .
+for me , it 's just simply that i 've got , um , got a person to go , you know , uh , a go-to person .
+i have somebody that i can sit down , discuss , explore things , check things .
+i find it really valuable .
+so , you know , it 's , it 's the peace of mind you get , i suppose , from discussing it with someone who knows what they 're actually doing .
+well , as a tricky one , um , really the main reason i 'm seeking advice is because i 'm not an expert when it comes to financial planning .
+i understand the basics of general and isa products , but when it comes to pensions , i 'm pretty clueless .
+i 've got a large workplace pension , and i want to make sure that i 'll have enough money when i come to retirement .
+um , in terms of the question of why acme limited , i was referred by my friend carol .
+she 's been with acme for years and could n't speak highly enough of you , um , as a , as a business .
+so i thought i should give it a go .
+no , not just now .
+the 25th of november , 1999. okay , cool .
+sure , that sounds good .
+yeah , the government keeps changing that , do n't they ?
+uh , it should n't really dictate when you retire because again , if you want to retire earlier or later , you can continue working regardless of whether you 're receiving a state pension or not .
+um , but it is a nice boost of additional income .
+um , and you know , you 've paid paying national insurance contributions all your life .
+it 's nice to get hopefully something back .
+oh , definitely as , as an income .
+um , i see the rental , uh , i , i see this rental income as , you know , what 's going to become something i 'm gon na become reliant upon , as i say , um , have not had to , had to use the pension fund up till now .
+so i 've always thought of my investments and this property as to what 's gon na provide me , you know , it , it means , um , to have a bit of a life when , when i do retire .
+yeah , i think i 've seen some of my colleagues do that and actually it 's been more detrimental to them in the long run .
+oh , okay .
+perfect .
+thank you .
+um , so , so there 's your asset .
+so i 've got that your total estate is worth about 1.7 million .
+well , retirement really is determined by your financial wellbeing .
+you know , some people choose not to retire because they 're mentally there in a happier place .
+they work , other people choose to retire later , you know , purely for financial reasons because they 've still got a mortgage to pay off or , you know , a family to support .
+in that sense , you 're in a very fortunate position , uh , already because you , you do n't have any liabilities .
+yep .
+yeah , i 'm fine with that .
+--------------------
+Ref:
+the adviser mentions state pension and national insurance contributions , implying that the client is entitled to state pension and has paid national insurance contributions throughout his whole career .
+the client is entitled to a large workplace pension .
+--------------------
+
+==================================================
+Pred:
+adviser explained that retirement really was determined by your financial wellbeing .
+some people choose not to retire because they were mentally there in a happier place .
+they worked , other people had still got a mortgage to pay off or a family to support .
+in that sense , retirement was a very fortunate position , already because you did n't have any liabilities .
+the portfolio naturally produced income , reinvested for you at the moment .
+still happy with that , mr. smith wanted to know if the rental income was still worth around 400,000 .
+--------------------
+topk:
+no , that 's been invested since 2008. yeah , i do n't need any more income at the moment .
+i just want the funds to keep greg .
+yes , so i inherited that property from my late father .
+definitely .
+and do you manage the property yourself or is it done via a letting agent ?
+no , just me on my own .
+yeah , absolutely .
+would n't , would n't we all .
+um , and obviously the portfolio naturally produces income , uh , that income is reinvested for you at the moment .
+still happy with that , mr. smith ?
+oh , definitely as , as an income .
+um , i see the rental , uh , i , i see this rental income as , you know , what 's going to become something i 'm gon na become reliant upon , as i say , um , have not had to , had to use the pension fund up till now .
+so i 've always thought of my investments and this property as to what 's gon na provide me , you know , it , it means , um , to have a bit of a life when , when i do retire .
+yeah , the government keeps changing that , do n't they ?
+uh , it should n't really dictate when you retire because again , if you want to retire earlier or later , you can continue working regardless of whether you 're receiving a state pension or not .
+um , but it is a nice boost of additional income .
+um , and you know , you 've paid paying national insurance contributions all your life .
+it 's nice to get hopefully something back .
+no , not just now .
+okay , cool .
+sure , that sounds good .
+and when is retirement for you ?
+well , retirement really is determined by your financial wellbeing .
+you know , some people choose not to retire because they 're mentally there in a happier place .
+they work , other people choose to retire later , you know , purely for financial reasons because they 've still got a mortgage to pay off or , you know , a family to support .
+in that sense , you 're in a very fortunate position , uh , already because you , you do n't have any liabilities .
+okay .
+and i 've got it here that you 've still got your second property as well , which i believe is rented out and provides some level of additional income to you .
+the 25th of november , 1999. for me , it 's just simply that i 've got , um , got a person to go , you know , uh , a go-to person .
+i have somebody that i can sit down , discuss , explore things , check things .
+i find it really valuable .
+so , you know , it 's , it 's the peace of mind you get , i suppose , from discussing it with someone who knows what they 're actually doing .
+yeah , it 's , it 's always , it 's always funny when you , when you put it down on paper , just having it kinda laid out , you know , it 's a nice exercise to , to go through .
+it clearly just shows obviously what 's , what 's liquid , what 's tied up , what 's there to be spent .
+it 's just , yeah , it 's always a beneficial exercise to , to go through , especially when you come out as being a millionaire .
+um , so i guess with regards to your , uh , we 've obviously gone through your , your balance sheet with regards to your expenditure .
+um , i can see that your monthly bills come to around 600 pounds .
+you 've got things like your car , transport costs , uh , general food , drinks , housekeeping , holidays , entertainment , and then other expenditure , which , you know , based on what you 've got coming in , you 've got a decent amount of surplus income .
+would you say that 's reflected in your current account at the moment ?
+okay .
+yeah , sounds good .
+hi .
+sorry , sorry , the paceman .
+yeah , no , absolutely .
+and , and the current value , would you state it 's still worth around 400,000 ?
+okay .
+and i can see that you 've also made a will back in 2008 , and the notes that , uh , the notes that have kindly been left to me is that your estate is first of all left to your cousin , billy , uh , yep .
+and mary , 25 % each .
+um , and then you 've got a god daughter serena , uh , as well .
+is that , is that right ?
+--------------------
+Ref:
+n/a
+--------------------
+
+==================================================
+Pred:
+adviser thought it was a good idea to invest in a new on-platform product .
+client agreed , and the team agreed to implement the changes .
+however , they would have to wait until the 25th of november , 1999 to finalize the details of the new product , which would include the address and postcode .
+at that point , the group would decide whether they should implement those changes or not .
+ongoing advice was five basis points , 0.5 % per annum .
+it covered the cost of today 's meeting .
+--------------------
+topk:
+no , just me on my own .
+hi .
+sorry , sorry , the paceman .
+and when is retirement for you ?
+the 25th of november , 1999. yes , so i inherited that property from my late father .
+yep .
+yeah , i 'm fine with that .
+no , not just now .
+okay .
+uh , and , and based on that , you can decide whether you want to implement those changes or not .
+um , that 's , that 's wholly up to you .
+now , ongoing advice , currently ongoing advice is five basis points , 0.5 % per annum .
+it 's taken monthly in arrears from your products .
+you 're not gon na face a bill at the end of each year .
+um , but that ongoing advice review covers the cost of today 's meeting .
+and it means that if you wanted to invest new money either into your portfolio or into a new on-platform product , we will not charge you the one-off advice fee , which is 1.5 % , which you have paid when you first established your portfolio .
+that 's right , yes .
+yeah , that sounds good .
+okay .
+yeah , sounds good .
+okay , good .
+no , nothing in the plan .
+no , that 's been invested since 2008. okay , cool .
+sure , that sounds good .
+okay , sounds good .
+yeah , no problem at all .
+thank you .
+and just confirmed your address and postcode .
+no , i still want my estate to be distributed in that way .
+okay .
+yeah , makes sense .
+--------------------
+Ref:
+the client wants to maintain his current lifestyle after retirement .
+he wants to continue travelling the world and wishes to maintain his current occupation until retirement around the age of 67 .
+--------------------
+
+==================================================
+Pred:
+adviser : you 'll be pleased to know i 'm almost through the formalities now .
+the last couple of points really .
+although we 're not a bank , we are covered under the financial services compensation scheme .
+what that means in practice is that your investments are protected up to 85,000 pounds , which mirrors the bank deposit for you .
+with regards to our services and solution , this just shows you , uh , that the advice i can provide under my restricted license so far has been able to provide advice on protection needs , retirement solutions , investment solutions and estate planning , everything we discussed earlier in the meeting .
+also , there were specialist advisors within the team that could provide retirement structuring as well .
+so that 's when you kind of reached the point where you were looking to start generating an income from pension or other parts of money .
+--------------------
+topk:
+no , that 's been invested since 2008. definitely .
+and do you manage the property yourself or is it done via a letting agent ?
+yeah , absolutely .
+would n't , would n't we all .
+um , and obviously the portfolio naturally produces income , uh , that income is reinvested for you at the moment .
+still happy with that , mr. smith ?
+perfect .
+thank you .
+now i 've seen you hopefully i wo n't have to ask you those questions again in the future .
+okay .
+so today 's meeting , i 'm going to be obviously gaining understanding of your current financial position .
+um , i have pretty much completed fact find from your last meeting with your previous advisor , but i think it would still be prudent to go through your assets one more time .
+just make sure that all the information we hold is still rela relative , uh , and correct .
+yeah , i do n't need any more income at the moment .
+i just want the funds to keep greg .
+yes , so i inherited that property from my late father .
+oh , definitely as , as an income .
+um , i see the rental , uh , i , i see this rental income as , you know , what 's going to become something i 'm gon na become reliant upon , as i say , um , have not had to , had to use the pension fund up till now .
+so i 've always thought of my investments and this property as to what 's gon na provide me , you know , it , it means , um , to have a bit of a life when , when i do retire .
+yeah , no , absolutely .
+and , and the current value , would you state it 's still worth around 400,000 ?
+oh , okay .
+perfect .
+thank you .
+um , so , so there 's your asset .
+so i 've got that your total estate is worth about 1.7 million .
+you 'll be pleased to know i 'm almost through the formalities now .
+um , so last couple of points really .
+um , now , although we 're not a bank , we are covered under the financial services compensation scheme .
+what that means in practice is that your investments are protected up to 85,000 pounds , which mirrors a bank deposit for you .
+okay .
+so with regards to our services and solution , um , okay , so this just shows you , uh , that the advice i can provide under my restricted license so i can provide advice on your protection needs , retirement solutions , investment solutions , and estate planning , everything we discussed earlier in the meeting .
+uh , we do also have specialist advisors within the team that can provide retirement structuring as well .
+so that 's when you kind of reach the point where you 're looking to start generating an income from your pension or other parts of money .
+um , you know , thankfully we 're not there today .
+so really what we 're gon na be focusing on is accumulating your wealth .
+um , so , you know , looking at how different investment products could help you achieve your goals , thinking it 's definitely worthwhile having a conversation , um , if we can , about your protection needs , which really underpins your long-term financial plans .
+um , and we can discuss estate planning .
+so again , potentially looking at whether there 's , uh , an inherent tax liability and whether no , just me on my own .
+yeah , yeah .
+uh , i 've been , um , i 've been very lucky , to be honest .
+um , obviously not that lucky .
+i , i 've lost relatives , um , because , uh , but , but that means i 've inherited money , uh , and the property at quite an early age , to be honest .
+so , which has n't really given me , uh , it 's really given me that boost into the market .
+so hence a lot of my assets are due to me being able to have no mortgage at this age , um , which i absolutely understand .
+i 'm very , very fortunate to be in that position .
+for me , it 's just simply that i 've got , um , got a person to go , you know , uh , a go-to person .
+i have somebody that i can sit down , discuss , explore things , check things .
+i find it really valuable .
+so , you know , it 's , it 's the peace of mind you get , i suppose , from discussing it with someone who knows what they 're actually doing .
+okay , fantastic .
+good .
+so i know now kind of where you are currently financially , uh , et cetera .
+i want to start exploring your longer term plans .
+okay .
+and i mentioned at the beginning of this meeting , um , it 's co completing what we call a fa a life plan .
+so just to help me understand kind of your future aspirations and your long-term goals .
+so what you can see on the screen at the moment , this is , this is call avoidance , uh , this is our cash modeling tool .
+okay .
+i want to focus mainly on the timeline at today 's meeting , but really what the cash modeling tool does for us , mr. smith , is it kind of uses all of your current informations , all the information you 've provided with with regard to your income , your assets , and your expenditure .
+and it helps us start to model , so some what if scenarios based on what you 're trying to achieve for the future .
+so it helps me to see if you wanted to retire at the age of say 67 , will you have enough assets to support you financially , will you have enough income ?
+um , and we can also take account of any kinda specific plans that you may have , uh , just to make sure that they 're stress tested so that you can achieve them .
+so hopefully that will kind of alleviate any fears that you may or may not have for the long term .
+um , and you 've got an onshore bond with standard life sitting at 40,000 pounds .
+do you take any withdrawals from the bond ?
+okay , cool .
+sure , that sounds good .
+brilliant .
+good to know .
+yeah , i i do know carol .
+she 's , she 's a lovely lady .
+um , great .
+no , that 's great .
+it 's all , it 's all about establishing your , uh , your motivation , so that 's really good to know .
+right .
+well , let us now jump into the , into the fact find , and that 's really where we take all of your data about your current circumstances , just gain a good understanding of your current situation .
+so just before we jump into your assets , um , i just want to get to know you a bit better , mr. smith .
+so you , you mentioned your colleagues , i 'm assuming you 're , you 're still working on a full-time basis ?
+okay .
+yeah , sounds good .
+no , not just now .
+i 'm a huge , huge fan of traveling .
+i 've been lucky enough to travel , um , to africa , south america , the far east , but there 's always more places i 'd like to visit .
+um , i 'd like to think that i had enough money when i retire to keep traveling .
+health permitting .
+--------------------
+Ref:
+the client has a substantial net worth , primarily consisting of property , investments , and surplus income .
+he owns his main residence with no mortgage , and the estimated value of this property is around £400,000 ; moreover , he inherited a second property from his late father , and he 's earning additional income by renting it out .
+the client has an onshore bond with standard life valued at £40,000 , which has been invested since 2008 , and other investments managed by the adviser , including £425,000 in a general investment account ( gia ) and £110,000 in an individual savings account ( isa ) .
+the client 's total estate is worth approximately £1.7 million .
+--------------------
+
+==================================================
+Pred:
+according to the client , the ongoing advice review covered the cost of today 's meeting .
+and it means that if you wanted to invest new money either into your portfolio or into a new on-platform product , we would not charge you the one-off advice fee , which is 1.5 % , and based on that , you can decide whether you want to implement those changes or not .
+now , it was taken monthly in arrears from your products .
+you 're not gon na face a bill at the end of each year .
+--------------------
+topk:
+and when is retirement for you ?
+no , just me on my own .
+hi .
+sorry , sorry , the paceman .
+no , that 's been invested since 2008. yes , so i inherited that property from my late father .
+that 's right , yes .
+the 25th of november , 1999. okay .
+yeah , sounds good .
+yeah , there 'll be month to month fluctuations , but all in all , i 'd say so .
+yep .
+yeah , i 'm fine with that .
+no , i still want my estate to be distributed in that way .
+okay .
+uh , and , and based on that , you can decide whether you want to implement those changes or not .
+um , that 's , that 's wholly up to you .
+now , ongoing advice , currently ongoing advice is five basis points , 0.5 % per annum .
+it 's taken monthly in arrears from your products .
+you 're not gon na face a bill at the end of each year .
+um , but that ongoing advice review covers the cost of today 's meeting .
+and it means that if you wanted to invest new money either into your portfolio or into a new on-platform product , we will not charge you the one-off advice fee , which is 1.5 % , which you have paid when you first established your portfolio .
+no , nothing in the plan .
+yeah , i do n't need any more income at the moment .
+i just want the funds to keep greg .
+yeah , no problem at all .
+definitely .
+and do you manage the property yourself or is it done via a letting agent ?
+for me , it 's just simply that i 've got , um , got a person to go , you know , uh , a go-to person .
+i have somebody that i can sit down , discuss , explore things , check things .
+i find it really valuable .
+so , you know , it 's , it 's the peace of mind you get , i suppose , from discussing it with someone who knows what they 're actually doing .
+okay , good .
+and how old is serena now ?
+no , not just now .
+--------------------
+Ref:
+the client currently owns his main residence and another property with no mortgage .
+his monthly bills include expenses for his car , transportation costs , general food , drinks , housekeeping , holidays , entertainment , and other expenditures , which amount to around £600 per month .
+the client is considering spending around £10,000 on items like a new sofa and rugs to decorate his house .
+he enjoys going on big holidays every other year , and european city breaks during the years he does n't take a big vacation .
+--------------------
+
+==================================================
+Pred:
+adviser : okay , good .
+so your second property , the one that 's currently rented out , any plans for that property ?
+client replied that he was not an expert when it comes to financial planning .
+he knew the basics of general and isa products , but he wanted to make sure that when retirement came , he would have enough money when he came to retirement .
+in terms of the question of why acme limited , client was referred by a friend carol .
+she had been with acame for years and could n't speak highly enough of you , as a business .
+--------------------
+topk:
+definitely .
+and do you manage the property yourself or is it done via a letting agent ?
+well , as a tricky one , um , really the main reason i 'm seeking advice is because i 'm not an expert when it comes to financial planning .
+i understand the basics of general and isa products , but when it comes to pensions , i 'm pretty clueless .
+i 've got a large workplace pension , and i want to make sure that i 'll have enough money when i come to retirement .
+um , in terms of the question of why acme limited , i was referred by my friend carol .
+she 's been with acme for years and could n't speak highly enough of you , um , as a , as a business .
+so i thought i should give it a go .
+yeah , absolutely .
+would n't , would n't we all .
+um , and obviously the portfolio naturally produces income , uh , that income is reinvested for you at the moment .
+still happy with that , mr. smith ?
+okey-doke .
+so i think i 've covered off the formalities of the meeting .
+so let 's dive into the main agenda .
+so i guess what i would first like to establish are your reasons for seeking advice .
+why acme limited ?
+why now ?
+yeah , i do n't need any more income at the moment .
+i just want the funds to keep greg .
+no , not just now .
+and when is retirement for you ?
+no , just me on my own .
+the 25th of november , 1999. okay , cool .
+sure , that sounds good .
+yes , so i inherited that property from my late father .
+amazing .
+any plans to buy any more properties ?
+no , that 's been invested since 2008. no , nothing in the plan .
+okay .
+uh , and , and based on that , you can decide whether you want to implement those changes or not .
+um , that 's , that 's wholly up to you .
+now , ongoing advice , currently ongoing advice is five basis points , 0.5 % per annum .
+it 's taken monthly in arrears from your products .
+you 're not gon na face a bill at the end of each year .
+um , but that ongoing advice review covers the cost of today 's meeting .
+and it means that if you wanted to invest new money either into your portfolio or into a new on-platform product , we will not charge you the one-off advice fee , which is 1.5 % , which you have paid when you first established your portfolio .
+yeah , that sounds good .
+that 's right , yes .
+okay , good .
+so your second property , the one that 's currently rented out , any plans for that property ?
+for me , it 's just simply that i 've got , um , got a person to go , you know , uh , a go-to person .
+i have somebody that i can sit down , discuss , explore things , check things .
+i find it really valuable .
+so , you know , it 's , it 's the peace of mind you get , i suppose , from discussing it with someone who knows what they 're actually doing .
+yep .
+yeah , i 'm fine with that .
+--------------------
+Ref:
+the client is seeking financial advice , specifically regarding his workplace pension .
+the adviser , representing acme limited , explains that they offer restricted advice on investments , pensions , and protection solutions from a selected group of providers .
+the client 's goal for his pension is to secure his financial future and ensure he has income for retirement .
+they discuss retirement age ; the client is planning to retire at 67 instead of the company 's retirement age of 65. moreover , the adviser mentions state pension and national insurance contributions .
+--------------------
+
+==================================================
+Pred:
+adviser : okay , great .
+so the questions have n't changed , so hopefully it all comes flooding back to you , mr. smith .
+question one , how would you describe your typical attitude , when it comes to making important financial decisions ?
+adventurous , fairly adventurous or balance of adventure and caution ?
+fairly careful or very careful ?
+question two , what are your plans for the second property , the one that 's currently rented out , any plans you have for that property ?
+--------------------
+topk:
+hi .
+sorry , sorry , the paceman .
+and when is retirement for you ?
+no , just me on my own .
+okay , great .
+so the questions have n't changed , so hopefully it all comes flooding back to you , mr. smith .
+um , so just to remind you , try to get your investment portfolio out of your head .
+okay .
+and just try to think about how you personally feel at this moment in time between risk and reward .
+okay .
+so question one , how would you describe your typical attitude , uh , and making important financial decisions ?
+would you say you 're very adventurous , fairly adventurous , balance of adventure and caution ?
+fairly careful or very careful ?
+yeah , that sounds good .
+okay , cool .
+sure , that sounds good .
+that 's it .
+yeah , that , that sounds like a good summary of , of what i was trying to say , okay .
+yeah , sounds good .
+yes , so i inherited that property from my late father .
+good , good way to view life really .
+um , and how would you rate your own willingness to take financial risks ?
+a very low risk taker , a low risk taker , moderate high , or very high risk taker ?
+yeah , no problem at all .
+yep .
+yeah , i 'm fine with that .
+no , not just now .
+no , that 's been invested since 2008. yeah , i do n't need any more income at the moment .
+i just want the funds to keep greg .
+the 25th of november , 1999. okay , good .
+so your second property , the one that 's currently rented out , any plans for that property ?
+thank you .
+and just confirmed your address and postcode .
+no , i still want my estate to be distributed in that way .
+okay , sounds good .
+--------------------
+Ref:
+the client mentions that he considers himself to be in excellent health and regularly goes to the gym ; he confirms that he does not smoke and emphasises his effort to maintain an active and healthy lifestyle .
+--------------------
+
+==================================================
+Pred:
+adviser : so first of all , we do n't give advice on , uh , risk category six investments .
+that would be kind of like more highly volatile asset classes , speculative investments , or going into direct stock or shareholding .
+so if you did want a very high risk investment , you know , they would nix it because they would n't be the best place for you to invest in and you 'd probably be sophisticated enough to be in choosing your own investments anyway .
+what we were looking at really is the one to five range .
+--------------------
+topk:
+okay .
+okay , good .
+now i 've also recommended that we complete a risk assessment at today 's meeting , only because from what i can see on your record , it 's now been five years , um , since we lost , completed a risk assessment and we understand , you know , attitudes to risk and change , um , as well as somebody 's capacity for loss .
+you know , your , your capacity for loss now might be higher than it was five years ago , so it 's not specifically to make any changes to your existing portfolio , but if we were to recommend a new investment or a new product , today 's meeting , it can help us just have a good conversation about what sort of risk approach you may want to take with this new investment vehicle .
+does that sound okay ?
+perfect .
+so you 'll be pleased to know that is the risk questionnaire completed .
+so thank you for your patience with that mr. smith .
+so as you can see here , uh , you 're coming out as a medium high risk taker .
+so straight away that that 's pleasing for me , uh , because you did n't answer any of the questions as the most cautious response , which could indicate that keeping money in cash would be the right thing for you .
+but clearly you 've indicated that you accept that investments go up and down in value , you 're very much focused on the long term , you know , you 've got an appetite for risk .
+okay .
+um , so just to remind you , so at acme limited , we have a risk profile system of of one to six , which hopefully you can see on the screen here .
+so risk category one is very low risk and risk category six is very high risk .
+okay , great .
+so the questions have n't changed , so hopefully it all comes flooding back to you , mr. smith .
+um , so just to remind you , try to get your investment portfolio out of your head .
+okay .
+and just try to think about how you personally feel at this moment in time between risk and reward .
+okay .
+so question one , how would you describe your typical attitude , uh , and making important financial decisions ?
+would you say you 're very adventurous , fairly adventurous , balance of adventure and caution ?
+fairly careful or very careful ?
+good , good way to view life really .
+um , and how would you rate your own willingness to take financial risks ?
+a very low risk taker , a low risk taker , moderate high , or very high risk taker ?
+that 's it .
+yeah , that , that sounds like a good summary of , of what i was trying to say , no , just me on my own .
+and when is retirement for you ?
+okay , cool .
+sure , that sounds good .
+uh , well possibly let 's , let 's say possibly unlikely .
+so first of all , we do n't give advice on , uh , risk category six investments .
+that would be kind of like , you know , more highly volatile asset classes , speculative investments , or going into direct stock or shareholding .
+so if you did want a very high risk investment , you know , we would n't be the best place for you to invest in and you 'd probably be sophisticated enough to be in choosing your own investments anyway .
+so what we 're looking at really is the , uh , the one to five range .
+okay , so you came out as a medium to high risk , which we class as a risk category four .
+um , so i 'm just gon na read you the paragraph , um , for medium to high risk investment , okay ?
+and then i 'm gon na read the one above and the one below , and please just be honest and tell me whether you think you agree , uh , or whether you disagree and perhaps you would clash yourself as a high risk or a medium risk investor .
+< laugh > .
+okay , good .
+well thanks very much for that .
+so let , so lem me just make sure that this is saved for you .
+okay , good .
+so we 'll agree that you consider yourself to be a medium high risk taker .
+so your risk profile score is , is 31 , probably wo n't me mean much to you , but it just helps us kind of determine where you fit on a risk profile .
+and i was assessed today , so we 've read and understood your risk profile description and because of the amount of time you 've held an investment with us , um , now mr. smith , i would class you as an experienced investor .
+that does n't mean i 'm expecting you to start picking and choosing your own funds or stock , so do n't worry , it just means that you 've already experienced market volatility and uh , you know , from from how you 're speaking , it 's clear that you understand that obviously market and asset values will go down and they will go up .
+yeah , yeah .
+it 's just the kind of flip sided that .
+question seven , if you have spare funds to invest , would you choose a risky investment for the excitement of seeing how it perform ?
+would you say that 's very likely , possibly unlikely or very unlikely ?
+no , that 's been invested since 2008. okay , good .
+yeah , absolutely .
+because ti time is on your side when it comes to your investment horizon , you feel that you continue to take a mutual high risk approach because that will outweigh any potential short-term market fluctuations with long-term capital growth .
+okay .
+yeah , sounds good .
+i , okay , i think i 'm gon na play it safe and go in the middle , moderate risk taker .
+hi .
+sorry , sorry , the paceman .
+no , not just now .
+the 25th of november , 1999 .
+--------------------
+Ref:
+the client seems to have a moderate-to-high risk tolerance and a preference for a balanced approach to investment .
+he describes his attitude toward financial decisions as fairly adventurous and optimistic ; he identifies himself as a moderate risk taker when it comes to financial risk and disagrees with the idea of worrying about share-based investments due to his long-term perspective .
+the client indicated he would n't be overly concerned about short-term market fluctuations ; he leans towards being possibly unlikely to choose a risky investment for excitement and thinks that a friend or relative would see him as balancing risk and caution .
+regarding investment choices , he 'd prefer to spread his money between low and high-risk options .
+--------------------
+
+==================================================
+Pred:
+adviser recommended that they complete a risk assessment at today 's meeting , only because from what i can see on your record , it had now been five years since they lost and they understood the attitudes to risk and change , as well as the capacity for loss .
+it was not specifically to make any changes to your existing portfolio , but if they were to recommend a new investment or a change product , today would help them just have a good conversation about what sort of risk approach you may want to take with this new product .
+does that sound okay ?
+--------------------
+topk:
+okay .
+okay , good .
+now i 've also recommended that we complete a risk assessment at today 's meeting , only because from what i can see on your record , it 's now been five years , um , since we lost , completed a risk assessment and we understand , you know , attitudes to risk and change , um , as well as somebody 's capacity for loss .
+you know , your , your capacity for loss now might be higher than it was five years ago , so it 's not specifically to make any changes to your existing portfolio , but if we were to recommend a new investment or a new product , today 's meeting , it can help us just have a good conversation about what sort of risk approach you may want to take with this new investment vehicle .
+does that sound okay ?
+yeah , yeah , i 've held my portfolio for a while now .
+um , i understand the nature of , you know , uh , that it goes up and down and yeah , i 've , i 've remained at this level because , well , i think five is too high for me , but three i think is , uh , and young enough , you know , uh , sort of still stay up for , for two .
+perhaps as i get closer , you know , into my fifties , i might want to think about reducing risk , but for now i want to benefit from any sort of , you know , um , capital growth by having , you know , more exposure to things which are equity based .
+and , um , i think i understand that from , you know , holding my , i i understand that from holding my current portfolio .
+okay .
+uh , and , and based on that , you can decide whether you want to implement those changes or not .
+um , that 's , that 's wholly up to you .
+now , ongoing advice , currently ongoing advice is five basis points , 0.5 % per annum .
+it 's taken monthly in arrears from your products .
+you 're not gon na face a bill at the end of each year .
+um , but that ongoing advice review covers the cost of today 's meeting .
+and it means that if you wanted to invest new money either into your portfolio or into a new on-platform product , we will not charge you the one-off advice fee , which is 1.5 % , which you have paid when you first established your portfolio .
+yeah , absolutely .
+because ti time is on your side when it comes to your investment horizon , you feel that you continue to take a mutual high risk approach because that will outweigh any potential short-term market fluctuations with long-term capital growth .
+that 's it .
+yeah , that , that sounds like a good summary of , of what i was trying to say , no , just me on my own .
+definitely .
+and do you manage the property yourself or is it done via a letting agent ?
+yeah , i do n't need any more income at the moment .
+i just want the funds to keep greg .
+no , not just now .
+okay , great .
+so the questions have n't changed , so hopefully it all comes flooding back to you , mr. smith .
+um , so just to remind you , try to get your investment portfolio out of your head .
+okay .
+and just try to think about how you personally feel at this moment in time between risk and reward .
+okay .
+so question one , how would you describe your typical attitude , uh , and making important financial decisions ?
+would you say you 're very adventurous , fairly adventurous , balance of adventure and caution ?
+fairly careful or very careful ?
+yes , so i inherited that property from my late father .
+yeah , absolutely .
+would n't , would n't we all .
+um , and obviously the portfolio naturally produces income , uh , that income is reinvested for you at the moment .
+still happy with that , mr. smith ?
+and when is retirement for you ?
+no , that 's been invested since 2008. okay , cool .
+sure , that sounds good .
+hi .
+sorry , sorry , the paceman .
+the 25th of november , 1999. okay .
+yeah , sounds good .
+okay , good .
+amazing .
+any plans to buy any more properties ?
+--------------------
+Ref:
+no portfolio changes are mentioned .
+the adviser states the current portfolio is on the right track and the client 's risk profile is still in line with what it was five years ago .
+--------------------
+
+==================================================
+Pred:
+adviser wanted to fully understand what your goals and aspirations were , for now and for the future .
+to help me do that , what they 're gon na be doing is completing what i would call a life plan , which would focus in on your home , your occupation , family , and lifestyle .
+based on these plans for each area over the medium to long term , they would then discuss how these would be achieved .
+the group would open up the discussion , discuss any other matters that perhaps you may not have thought about .
+--------------------
+topk:
+hi .
+sorry , sorry , the paceman .
+okay , cool .
+sure , that sounds good .
+and when is retirement for you ?
+no , not just now .
+yeah , that sounds good .
+amazing .
+any plans to buy any more properties ?
+no , just me on my own .
+okey-doke .
+so i think i 've covered off the formalities of the meeting .
+so let 's dive into the main agenda .
+so i guess what i would first like to establish are your reasons for seeking advice .
+why acme limited ?
+why now ?
+the 25th of november , 1999. definitely .
+and do you manage the property yourself or is it done via a letting agent ?
+okay , great .
+so the questions have n't changed , so hopefully it all comes flooding back to you , mr. smith .
+um , so just to remind you , try to get your investment portfolio out of your head .
+okay .
+and just try to think about how you personally feel at this moment in time between risk and reward .
+okay .
+so question one , how would you describe your typical attitude , uh , and making important financial decisions ?
+would you say you 're very adventurous , fairly adventurous , balance of adventure and caution ?
+fairly careful or very careful ?
+no , that 's been invested since 2008. okay , good .
+so your second property , the one that 's currently rented out , any plans for that property ?
+yeah , no problem at all .
+okay .
+uh , and , and based on that , you can decide whether you want to implement those changes or not .
+um , that 's , that 's wholly up to you .
+now , ongoing advice , currently ongoing advice is five basis points , 0.5 % per annum .
+it 's taken monthly in arrears from your products .
+you 're not gon na face a bill at the end of each year .
+um , but that ongoing advice review covers the cost of today 's meeting .
+and it means that if you wanted to invest new money either into your portfolio or into a new on-platform product , we will not charge you the one-off advice fee , which is 1.5 % , which you have paid when you first established your portfolio .
+okay .
+yeah , sounds good .
+no , nothing in the plan .
+yep .
+yeah , i 'm fine with that .
+and then i just want to fully understand kind of what your goals and aspirations are , um , for now and for the future .
+um , and to help me do that , what we 're gon na be doing is completing what i would call a life plan , which we 'll really focus in on your home , your occupation , your family , and your lifestyle , and what are your plans for each area over the medium to long term .
+okay ?
+uh , and based on your aspirations for the future , we can then discuss how these will be achieved .
+okay .
+um , and we can open up the discussion , discuss any other matters that perhaps you may not have thought about .
+and then based on that , we 'll agree on the next steps .
+that 's it .
+yeah , that , that sounds like a good summary of , of what i was trying to say ,
+--------------------
+Ref:
+the adviser recommended that the client read through the documents sent to him after the meeting .
+he also mentions an interim review meeting and leaves the discussion about protection for that meeting .
+the adviser will follow up with the client to schedule the interim review meeting and provide dates via email .
+--------------------
+
+==================================================
+Pred:
+adviser : so first of all , we do n't give advice on , uh , risk category six investments .
+that would be kind of like , you know , more highly volatile asset classes , speculative investments , or going into direct stock or shareholding .
+so if you did want a very high risk investment , the best place for you to invest in and you would probably be sophisticated enough to be in choosing your own investments anyway .
+what we were looking at really is the one to five range .
+--------------------
+topk:
+well , as a tricky one , um , really the main reason i 'm seeking advice is because i 'm not an expert when it comes to financial planning .
+i understand the basics of general and isa products , but when it comes to pensions , i 'm pretty clueless .
+i 've got a large workplace pension , and i want to make sure that i 'll have enough money when i come to retirement .
+um , in terms of the question of why acme limited , i was referred by my friend carol .
+she 's been with acme for years and could n't speak highly enough of you , um , as a , as a business .
+so i thought i should give it a go .
+no , nothing in the plan .
+yeah , of course .
+yeah .
+and when is retirement for you ?
+okay .
+yeah , sounds good .
+yep .
+yeah , i 'm fine with that .
+no , not just now .
+no , that 's been invested since 2008. okey-doke .
+so i think i 've covered off the formalities of the meeting .
+so let 's dive into the main agenda .
+so i guess what i would first like to establish are your reasons for seeking advice .
+why acme limited ?
+why now ?
+hi .
+sorry , sorry , the paceman .
+that 's right , yes .
+no , that 's , that 's quite all right .
+do n't worry .
+i 'm , i 'm very much used to it in this , uh , this working from home environment that we all live in .
+um , okay , brilliant .
+so just to , just to recap what we left off .
+so you 've also got money invested that we 're managing for you .
+um , you 're utilizing your ice allowance each year as well as your capital gains tax allowance .
+and you told me , because you find pensions complex , you mainly see your investment as a way of supporting you financially as and when you decide to retire from work .
+for me , it 's just simply that i 've got , um , got a person to go , you know , uh , a go-to person .
+i have somebody that i can sit down , discuss , explore things , check things .
+i find it really valuable .
+so , you know , it 's , it 's the peace of mind you get , i suppose , from discussing it with someone who knows what they 're actually doing .
+that 's right .
+yeah .
+yeah , i remember that .
+okay , exactly .
+nothing major , nothing structural .
+no , just me on my own .
+so first of all , we do n't give advice on , uh , risk category six investments .
+that would be kind of like , you know , more highly volatile asset classes , speculative investments , or going into direct stock or shareholding .
+so if you did want a very high risk investment , you know , we would n't be the best place for you to invest in and you 'd probably be sophisticated enough to be in choosing your own investments anyway .
+so what we 're looking at really is the , uh , the one to five range .
+okay , so you came out as a medium to high risk , which we class as a risk category four .
+um , so i 'm just gon na read you the paragraph , um , for medium to high risk investment , okay ?
+and then i 'm gon na read the one above and the one below , and please just be honest and tell me whether you think you agree , uh , or whether you disagree and perhaps you would clash yourself as a high risk or a medium risk investor .
+okay , cool .
+sure , that sounds good .
+okay , fantastic .
+good .
+so i know now kind of where you are currently financially , uh , et cetera .
+i want to start exploring your longer term plans .
+okay .
+and i mentioned at the beginning of this meeting , um , it 's co completing what we call a fa a life plan .
+so just to help me understand kind of your future aspirations and your long-term goals .
+so what you can see on the screen at the moment , this is , this is call avoidance , uh , this is our cash modeling tool .
+okay .
+i want to focus mainly on the timeline at today 's meeting , but really what the cash modeling tool does for us , mr. smith , is it kind of uses all of your current informations , all the information you 've provided with with regard to your income , your assets , and your expenditure .
+and it helps us start to model , so some what if scenarios based on what you 're trying to achieve for the future .
+so it helps me to see if you wanted to retire at the age of say 67 , will you have enough assets to support you financially , will you have enough income ?
+um , and we can also take account of any kinda specific plans that you may have , uh , just to make sure that they 're stress tested so that you can achieve them .
+so hopefully that will kind of alleviate any fears that you may or may not have for the long term .
+well , they must be doing selling right ?
+to keep you there for so long .
+--------------------
+Ref:
+the client is seeking advice because he lacks expertise in financial planning , especially when it comes to his workplace pension and retirement .
+the client wants to ensure he has enough money for retirement .
+additionally , he values having a knowledgeable advisor as a go-to person for discussions and to provide peace of mind .
+--------------------
+
+==================================================
+Pred:
+the client was referred by someone who was with acme ltd , who recommended the company and why .
+in terms of the question of financial planning , the main reason the client sought advice was because she was not an expert when it came to retirement planning .
+she knew the basics of general and isa products , but was pretty clueless about pensions .
+therefore , she wanted to make sure that she would have enough money when retirement came around , and she thought she should give it a go now .
+--------------------
+topk:
+that 's right , yes .
+yep .
+yeah , i 'm fine with that .
+well , as a tricky one , um , really the main reason i 'm seeking advice is because i 'm not an expert when it comes to financial planning .
+i understand the basics of general and isa products , but when it comes to pensions , i 'm pretty clueless .
+i 've got a large workplace pension , and i want to make sure that i 'll have enough money when i come to retirement .
+um , in terms of the question of why acme limited , i was referred by my friend carol .
+she 's been with acme for years and could n't speak highly enough of you , um , as a , as a business .
+so i thought i should give it a go .
+and when is retirement for you ?
+hi .
+sorry , sorry , the paceman .
+i tend to agree .
+no , i , i think that 's everything .
+thank you for your time .
+it 's , it 's been really helpful .
+um , and , and as i say , it 's , it 's good to speak to someone who knows what they 're doing .
+no , just me on my own .
+no , not just now .
+okay .
+yeah , makes sense .
+no , nothing in the plan .
+i think 10 to spread some in each .
+yeah , i think i 've seen some of my colleagues do that and actually it 's been more detrimental to them in the long run .
+yeah , no problem at all .
+yeah , that sounds good .
+yes , so i inherited that property from my late father .
+no , that 's been invested since 2008. okay , and how old is serena now ?
+yeah , yeah .
+uh , i 've been , um , i 've been very lucky , to be honest .
+um , obviously not that lucky .
+i , i 've lost relatives , um , because , uh , but , but that means i 've inherited money , uh , and the property at quite an early age , to be honest .
+so , which has n't really given me , uh , it 's really given me that boost into the market .
+so hence a lot of my assets are due to me being able to have no mortgage at this age , um , which i absolutely understand .
+i 'm very , very fortunate to be in that position .
+--------------------
+Ref:
+the client was referred by his friend carol , who has been a long-standing client of the company .
+she recommended acme ltd because of her positive experience .
+--------------------
+
+==================================================
+Pred:
+acme ltd had an online advert that attracted them to the company .
+the client thought it was helpful to speak to someone who knew what they were doing .
+they had seen some colleagues do that and actually it had been more detrimental to them in the long run .
+therefore , they wanted to know if they could spread some in each other 's networks , and if so , what kind of benefits they would get from doing so .
+in addition , the paceman would be able to travel with them .
+--------------------
+topk:
+that 's right , yes .
+yep .
+yeah , i 'm fine with that .
+and when is retirement for you ?
+i tend to agree .
+hi .
+sorry , sorry , the paceman .
+no , i , i think that 's everything .
+thank you for your time .
+it 's , it 's been really helpful .
+um , and , and as i say , it 's , it 's good to speak to someone who knows what they 're doing .
+no , not just now .
+and how old is serena now ?
+okay .
+yeah , makes sense .
+no , nothing in the plan .
+i think 10 to spread some in each .
+yeah , i think i 've seen some of my colleagues do that and actually it 's been more detrimental to them in the long run .
+yeah , no problem at all .
+yeah , that sounds good .
+yeah .
+so you enjoy traveling ?
+yep , that 's correct .
+okay , yes , so i inherited that property from my late father .
+okay , good .
+uh , being single has its pros though , does n't it ?
+you 're free to do what you want .
+--------------------
+Ref:
+n/a
+--------------------
+
+==================================================
+Pred:
+adviser asked the client to summarize his job , social life , and family situation ( e.g .
+single , married , divorced - specifically focusing on anyone who is a dependant ) using statements that were supported by what he or she had seen some of his colleagues do that and actually it had been more detrimental to them in the long run .
+he also wanted to exclude financial details .
+in addition , he wanted his estate to be distributed in that way so that it would be more transparent .
+--------------------
+topk:
+yep .
+yeah , i 'm fine with that .
+and when is retirement for you ?
+no , that 's been invested since 2008. no , not just now .
+no , nothing in the plan .
+yeah , i think i 've seen some of my colleagues do that and actually it 's been more detrimental to them in the long run .
+okay , cool .
+sure , that sounds good .
+the 25th of november , 1999. no , just me on my own .
+that 's right , yes .
+hi .
+sorry , sorry , the paceman .
+okay .
+yeah , sounds good .
+for me , it 's just simply that i 've got , um , got a person to go , you know , uh , a go-to person .
+i have somebody that i can sit down , discuss , explore things , check things .
+i find it really valuable .
+so , you know , it 's , it 's the peace of mind you get , i suppose , from discussing it with someone who knows what they 're actually doing .
+yes , so i inherited that property from my late father .
+and how old is serena now ?
+definitely .
+and do you manage the property yourself or is it done via a letting agent ?
+i 'd say i 'm fairly adventurous .
+no , i , i think that 's everything .
+thank you for your time .
+it 's , it 's been really helpful .
+um , and , and as i say , it 's , it 's good to speak to someone who knows what they 're doing .
+exactly .
+nothing major , nothing structural .
+no , i still want my estate to be distributed in that way .
+--------------------
+Ref:
+the client has been with the company 'bugs and co ' for 20 years and is a senior lab technician involved in cancer research .
+he is single and has no financial dependents .
+the client is close to his goddaughter , serena , and she is a significant part of his life .
+regarding his social life , he enjoys going on big international vacations every other year with his best friend nikki and occasionally with serena .
+they also take european city breaks in the years they do n't have major vacations .
+--------------------
+
+==================================================
+Pred:
+adviser : and then i just want to fully understand kind of what your goals and aspirations are , for now and for the future .
+to help me do that , what we 're gon na be doing is completing what i would call a life plan , which would focus in on your home , your occupation , family , and lifestyle .
+and what are your plans for each area over the medium to long term .
+based on this , we can then discuss how these will be achieved .
+the next step would be to open up the discussion , discuss any other matters that perhaps you may not have thought about .
+--------------------
+topk:
+and then i just want to fully understand kind of what your goals and aspirations are , um , for now and for the future .
+um , and to help me do that , what we 're gon na be doing is completing what i would call a life plan , which we 'll really focus in on your home , your occupation , your family , and your lifestyle , and what are your plans for each area over the medium to long term .
+okay ?
+uh , and based on your aspirations for the future , we can then discuss how these will be achieved .
+okay .
+um , and we can open up the discussion , discuss any other matters that perhaps you may not have thought about .
+and then based on that , we 'll agree on the next steps .
+okay , fantastic .
+good .
+so i know now kind of where you are currently financially , uh , et cetera .
+i want to start exploring your longer term plans .
+okay .
+and i mentioned at the beginning of this meeting , um , it 's co completing what we call a fa a life plan .
+so just to help me understand kind of your future aspirations and your long-term goals .
+so what you can see on the screen at the moment , this is , this is call avoidance , uh , this is our cash modeling tool .
+okay .
+i want to focus mainly on the timeline at today 's meeting , but really what the cash modeling tool does for us , mr. smith , is it kind of uses all of your current informations , all the information you 've provided with with regard to your income , your assets , and your expenditure .
+and it helps us start to model , so some what if scenarios based on what you 're trying to achieve for the future .
+so it helps me to see if you wanted to retire at the age of say 67 , will you have enough assets to support you financially , will you have enough income ?
+um , and we can also take account of any kinda specific plans that you may have , uh , just to make sure that they 're stress tested so that you can achieve them .
+so hopefully that will kind of alleviate any fears that you may or may not have for the long term .
+no , that 's been invested since 2008. that 's right , yes .
+no , that 's , that 's quite all right .
+do n't worry .
+i 'm , i 'm very much used to it in this , uh , this working from home environment that we all live in .
+um , okay , brilliant .
+so just to , just to recap what we left off .
+so you 've also got money invested that we 're managing for you .
+um , you 're utilizing your ice allowance each year as well as your capital gains tax allowance .
+and you told me , because you find pensions complex , you mainly see your investment as a way of supporting you financially as and when you decide to retire from work .
+good , good way to view life really .
+um , and how would you rate your own willingness to take financial risks ?
+a very low risk taker , a low risk taker , moderate high , or very high risk taker ?
+and when is retirement for you ?
+hi .
+sorry , sorry , the paceman .
+yep .
+yeah , i 'm fine with that .
+no , i , i think that 's everything .
+thank you for your time .
+it 's , it 's been really helpful .
+um , and , and as i say , it 's , it 's good to speak to someone who knows what they 're doing .
+i tend to agree .
+yeah , yeah .
+uh , i 've been , um , i 've been very lucky , to be honest .
+um , obviously not that lucky .
+i , i 've lost relatives , um , because , uh , but , but that means i 've inherited money , uh , and the property at quite an early age , to be honest .
+so , which has n't really given me , uh , it 's really given me that boost into the market .
+so hence a lot of my assets are due to me being able to have no mortgage at this age , um , which i absolutely understand .
+i 'm very , very fortunate to be in that position .
+yeah .
+so you enjoy traveling ?
+yeah , no , absolutely .
+um , so the last part of your kinda life plan i just wanted to touch upon is your current lifestyle .
+so i understand we can do a job , um , uh , for you , but i want to understand what , you know , what do you do outside of work ?
+you know , what pleases you , what gives you enjoyment in life ?
+no , nothing in the plan .
+okay .
+yeah , sounds good .
+no , not just now .
+no , just me on my own .
+okay .
+so it definitely sounds like you 're maintaining a busy lifestyle if you 're earning the money , it 's good to spend it on things that you 're enjoying doing .
+i mean , i 've been very , very lucky because i 've got some really good tenants in there .
+um , they 've been in there long term .
+they do n't give me much trouble at all .
+i think because i kept , i keep the rent , um , quite low just to keep them there because i 'd rather that they , um , they treat it like a home and as long as they stay , i have no plans .
+i 'm happy with the situation as it is and um , i 've always seen it just as a means to provide a bit more financial security when i retire .
+really .
+--------------------
+Ref:
+the client aspires to maintain his current healthy and active lifestyle , continuing to travel in retirement .
+he finds his current job fulfilling , and , as long as the company stays open , he plans on working there until retirement .
+--------------------
+
+==================================================
+Pred:
+adviser first summarized the client 's anticipated sources of income in the future , focusing on the sources rather than the value , and using statements that were supported by what the clients said .
+the discussion about state pension entitlement was excluded because the government keeps changing that , so it should n't really dictate when retirees retire because again , if you want to retire earlier or later , you can continue working regardless of whether you 're receiving a pension or not .
+then , the adviser talked about the benefits of having a go-to person who can sit down , discuss , explore things , check things .
+--------------------
+topk:
+yeah , i do n't need any more income at the moment .
+i just want the funds to keep greg .
+no , nothing in the plan .
+yep .
+yeah , i 'm fine with that .
+no , that 's been invested since 2008. for me , it 's just simply that i 've got , um , got a person to go , you know , uh , a go-to person .
+i have somebody that i can sit down , discuss , explore things , check things .
+i find it really valuable .
+so , you know , it 's , it 's the peace of mind you get , i suppose , from discussing it with someone who knows what they 're actually doing .
+yes , so i inherited that property from my late father .
+and when is retirement for you ?
+hi .
+sorry , sorry , the paceman .
+no , not just now .
+no , just me on my own .
+well , retirement really is determined by your financial wellbeing .
+you know , some people choose not to retire because they 're mentally there in a happier place .
+they work , other people choose to retire later , you know , purely for financial reasons because they 've still got a mortgage to pay off or , you know , a family to support .
+in that sense , you 're in a very fortunate position , uh , already because you , you do n't have any liabilities .
+yeah , absolutely .
+would n't , would n't we all .
+um , and obviously the portfolio naturally produces income , uh , that income is reinvested for you at the moment .
+still happy with that , mr. smith ?
+yeah , of course .
+yeah .
+that 's right , yes .
+yeah , the government keeps changing that , do n't they ?
+uh , it should n't really dictate when you retire because again , if you want to retire earlier or later , you can continue working regardless of whether you 're receiving a state pension or not .
+um , but it is a nice boost of additional income .
+um , and you know , you 've paid paying national insurance contributions all your life .
+it 's nice to get hopefully something back .
+that 's right .
+yeah .
+yeah , i remember that .
+okay , and how old is serena now ?
+okay .
+yeah , sounds good .
+yeah , yeah .
+uh , i 've been , um , i 've been very lucky , to be honest .
+um , obviously not that lucky .
+i , i 've lost relatives , um , because , uh , but , but that means i 've inherited money , uh , and the property at quite an early age , to be honest .
+so , which has n't really given me , uh , it 's really given me that boost into the market .
+so hence a lot of my assets are due to me being able to have no mortgage at this age , um , which i absolutely understand .
+i 'm very , very fortunate to be in that position .
+yeah , i think i 've seen some of my colleagues do that and actually it 's been more detrimental to them in the long run .
+--------------------
+Ref:
+as long as the client keeps working , his occupation remains a potential source of income .
+moreover , he has rental income from a second property that is rented out .
+he mentioned having nice pensions built up , which he views as his primary source of income during retirement .
+the client also mentioned utilizing his investments to support him in retirement .
+--------------------
+
+==================================================
+Pred:
+adviser first summarized the client 's anticipated major expenditures in the future ( e.g .
+holidays , wedding , house purchase ) , using statements that were supported by what they had already been invested since 2008. then , the adviser went on to discuss the current balance sheet , which showed that the monthly bills came to around 600 pounds .
+based on this amount , there was a decent amount of surplus income , reflected in current account at the moment .
+the advisor concluded that it was good to spend the money on things that are enjoying doing .
+--------------------
+topk:
+exactly .
+nothing major , nothing structural .
+no , nothing in the plan .
+and when is retirement for you ?
+yep .
+yeah , i 'm fine with that .
+hi .
+sorry , sorry , the paceman .
+that 's right , yes .
+no , not just now .
+okay .
+yeah , sounds good .
+yeah , of course .
+yeah .
+yeah , it 's , it 's always , it 's always funny when you , when you put it down on paper , just having it kinda laid out , you know , it 's a nice exercise to , to go through .
+it clearly just shows obviously what 's , what 's liquid , what 's tied up , what 's there to be spent .
+it 's just , yeah , it 's always a beneficial exercise to , to go through , especially when you come out as being a millionaire .
+um , so i guess with regards to your , uh , we 've obviously gone through your , your balance sheet with regards to your expenditure .
+um , i can see that your monthly bills come to around 600 pounds .
+you 've got things like your car , transport costs , uh , general food , drinks , housekeeping , holidays , entertainment , and then other expenditure , which , you know , based on what you 've got coming in , you 've got a decent amount of surplus income .
+would you say that 's reflected in your current account at the moment ?
+okay , so kind of like more decorations than , than major renovations .
+no , that 's been invested since 2008. yeah , i do n't need any more income at the moment .
+i just want the funds to keep greg .
+that 's right .
+yeah .
+yeah , i remember that .
+okay , yeah , no problem at all .
+and how old is serena now ?
+okay , sounds good .
+okay .
+so it definitely sounds like you 're maintaining a busy lifestyle if you 're earning the money , it 's good to spend it on things that you 're enjoying doing .
+i 'm just wanting to get like a new sofa , a couple rugs and stuff , you know , well just , uh , up update things really .
+so i 'm thinking , uh , around , i do n't expect it to cost more than about 10,000 pounds , i think .
+for me , it 's just simply that i 've got , um , got a person to go , you know , uh , a go-to person .
+i have somebody that i can sit down , discuss , explore things , check things .
+i find it really valuable .
+so , you know , it 's , it 's the peace of mind you get , i suppose , from discussing it with someone who knows what they 're actually doing .
+--------------------
+Ref:
+the client 's anticipated major expenditures in the future are related to maintaining his current lifestyle , travel , and home improvements .
+he mentioned a desire to continue travelling during retirement , and he mentioned plans to make periodic updates and improvements to his home .
+these updates include purchasing new furniture , such as a sofa and rugs , and overall decorating .
+the estimated cost for these improvements is around £10,000 .
+--------------------
+
+==================================================
+Pred:
+adviser first summarized the client 's current state pension entitlement and history of contributions , using statements that were supported by facts in the plan .
+then , he asked whether the government had changed the retirement age , and if it should n't really dictate when retirees retire because if they want to retire earlier or later , they can continue working regardless of whether they 're receiving a pension or not .
+the answer was no , but it was a nice boost of additional income .
+after paying national insurance contributions all your life , it would be nice to get hopefully something back .
+--------------------
+topk:
+yeah , the government keeps changing that , do n't they ?
+uh , it should n't really dictate when you retire because again , if you want to retire earlier or later , you can continue working regardless of whether you 're receiving a state pension or not .
+um , but it is a nice boost of additional income .
+um , and you know , you 've paid paying national insurance contributions all your life .
+it 's nice to get hopefully something back .
+well , retirement really is determined by your financial wellbeing .
+you know , some people choose not to retire because they 're mentally there in a happier place .
+they work , other people choose to retire later , you know , purely for financial reasons because they 've still got a mortgage to pay off or , you know , a family to support .
+in that sense , you 're in a very fortunate position , uh , already because you , you do n't have any liabilities .
+and when is retirement for you ?
+no , i , i think that 's everything .
+thank you for your time .
+it 's , it 's been really helpful .
+um , and , and as i say , it 's , it 's good to speak to someone who knows what they 're doing .
+yep .
+yeah , i 'm fine with that .
+that 's right , yes .
+no , nothing in the plan .
+for me , it 's just simply that i 've got , um , got a person to go , you know , uh , a go-to person .
+i have somebody that i can sit down , discuss , explore things , check things .
+i find it really valuable .
+so , you know , it 's , it 's the peace of mind you get , i suppose , from discussing it with someone who knows what they 're actually doing .
+hi .
+sorry , sorry , the paceman .
+yeah , i think i 've seen some of my colleagues do that and actually it 's been more detrimental to them in the long run .
+yeah , no problem at all .
+i tend to agree .
+and how old is serena now ?
+okay .
+yeah , sounds good .
+no , not just now .
+okay .
+yeah , makes sense .
+no , that 's been invested since 2008. okay , cool .
+sure , that sounds good .
+okay , good .
+so your second property , the one that 's currently rented out , any plans for that property ?
+yeah , of course .
+yeah .
+--------------------
+Ref:
+n/a
+--------------------
+
+==================================================
+Pred:
+client stated that they would cope if they can not continue to work due to illness , using statements that were supported by what the client said .
+emphasize any shortfall in income .
+ignore state pension entitlement .
+the paceman would be responsible for taking care of the family .
+he would pay for their medical expenses .
+they could not rely on the pension and would have to spread some of their income among other family members .
+there would not be any major structural changes in their financial situation , such as a reduction in salary .
+--------------------
+topk:
+no , nothing in the plan .
+yep .
+yeah , i 'm fine with that .
+and when is retirement for you ?
+no , not just now .
+yeah , of course .
+yeah .
+hi .
+sorry , sorry , the paceman .
+yeah , i think i 've seen some of my colleagues do that and actually it 's been more detrimental to them in the long run .
+i 'd say i 'm fairly adventurous .
+and how old is serena now ?
+exactly .
+nothing major , nothing structural .
+that 's right .
+yeah .
+yeah , i remember that .
+okay , okay .
+yeah , sounds good .
+that 's right , yes .
+i think 10 to spread some in each .
+yes , so i inherited that property from my late father .
+well , she 's at uni at the moment .
+she 's studying to become a vet , so she 's done really , really well .
+i 'm , i 'm super proud of her .
+no dependence .
+um , i am , i am single , unfortunately , still waiting to meet the woman of my dreams .
+for me , it 's just simply that i 've got , um , got a person to go , you know , uh , a go-to person .
+i have somebody that i can sit down , discuss , explore things , check things .
+i find it really valuable .
+so , you know , it 's , it 's the peace of mind you get , i suppose , from discussing it with someone who knows what they 're actually doing .
+i mean , i 've been very , very lucky because i 've got some really good tenants in there .
+um , they 've been in there long term .
+they do n't give me much trouble at all .
+i think because i kept , i keep the rent , um , quite low just to keep them there because i 'd rather that they , um , they treat it like a home and as long as they stay , i have no plans .
+i 'm happy with the situation as it is and um , i 've always seen it just as a means to provide a bit more financial security when i retire .
+really .
+okay .
+yeah , makes sense .
+--------------------
+Ref:
+n/a
+--------------------
+
+==================================================
+Pred:
+adviser asked the client if he had any dreams or milestones he was looking forward to ( e.g .
+a wedding , or a big holiday ) that would be a significant expense .
+client answered that he did not want to spend a lot of money on them , but he would like to spread some in each of the next two years .
+he also wanted to make sure that the ongoing advice review covered the cost of today 's meeting , which was five basis points , 0.5 % per annum .
+it was taken monthly in arrears from your products .
+--------------------
+topk:
+and when is retirement for you ?
+yep .
+yeah , i 'm fine with that .
+that 's right , yes .
+hi .
+sorry , sorry , the paceman .
+no , nothing in the plan .
+no , not just now .
+i tend to agree .
+okay , sounds good .
+exactly .
+nothing major , nothing structural .
+i think 10 to spread some in each .
+yeah , i think i 've seen some of my colleagues do that and actually it 's been more detrimental to them in the long run .
+okay , cool .
+sure , that sounds good .
+excellent .
+thanks very much .
+the 25th of november , 1999. and how old is serena now ?
+okay .
+uh , and , and based on that , you can decide whether you want to implement those changes or not .
+um , that 's , that 's wholly up to you .
+now , ongoing advice , currently ongoing advice is five basis points , 0.5 % per annum .
+it 's taken monthly in arrears from your products .
+you 're not gon na face a bill at the end of each year .
+um , but that ongoing advice review covers the cost of today 's meeting .
+and it means that if you wanted to invest new money either into your portfolio or into a new on-platform product , we will not charge you the one-off advice fee , which is 1.5 % , which you have paid when you first established your portfolio .
+yeah .
+so you enjoy traveling ?
+alright ?
+yeah , that , that sounds good .
+no , that 's been invested since 2008. yeah , of course .
+yeah .
+--------------------
+Ref:
+the client is looking forward to a big holiday every other year with his best friend , during which they travel to exotic destinations for three to four weeks .
+they are planning to go to australia for their next big holiday .
+--------------------
+
+==================================================
+Pred:
+adviser recommended that the client complete a risk assessment at today 's meeting , only because from what i can see on your record , it had now been five years since they lost , so it was now time to have a good conversation about what sort of risk approach you may want to take with this new investment vehicle .
+does that sound okay ?
+client answered that he was fine with the situation as long as the tenants were in there , and he had no plans to change the portfolio .
+--------------------
+topk:
+yeah , i do n't need any more income at the moment .
+i just want the funds to keep greg .
+definitely .
+and do you manage the property yourself or is it done via a letting agent ?
+no , that 's , that 's quite all right .
+do n't worry .
+i 'm , i 'm very much used to it in this , uh , this working from home environment that we all live in .
+um , okay , brilliant .
+so just to , just to recap what we left off .
+so you 've also got money invested that we 're managing for you .
+um , you 're utilizing your ice allowance each year as well as your capital gains tax allowance .
+and you told me , because you find pensions complex , you mainly see your investment as a way of supporting you financially as and when you decide to retire from work .
+no , that 's been invested since 2008. i mean , i 've been very , very lucky because i 've got some really good tenants in there .
+um , they 've been in there long term .
+they do n't give me much trouble at all .
+i think because i kept , i keep the rent , um , quite low just to keep them there because i 'd rather that they , um , they treat it like a home and as long as they stay , i have no plans .
+i 'm happy with the situation as it is and um , i 've always seen it just as a means to provide a bit more financial security when i retire .
+really .
+and when is retirement for you ?
+yeah , absolutely .
+would n't , would n't we all .
+um , and obviously the portfolio naturally produces income , uh , that income is reinvested for you at the moment .
+still happy with that , mr. smith ?
+yeah , yeah .
+uh , i 've been , um , i 've been very lucky , to be honest .
+um , obviously not that lucky .
+i , i 've lost relatives , um , because , uh , but , but that means i 've inherited money , uh , and the property at quite an early age , to be honest .
+so , which has n't really given me , uh , it 's really given me that boost into the market .
+so hence a lot of my assets are due to me being able to have no mortgage at this age , um , which i absolutely understand .
+i 'm very , very fortunate to be in that position .
+yep .
+yeah , i 'm fine with that .
+that 's right , yes .
+okay , fantastic .
+good .
+so i know now kind of where you are currently financially , uh , et cetera .
+i want to start exploring your longer term plans .
+okay .
+and i mentioned at the beginning of this meeting , um , it 's co completing what we call a fa a life plan .
+so just to help me understand kind of your future aspirations and your long-term goals .
+so what you can see on the screen at the moment , this is , this is call avoidance , uh , this is our cash modeling tool .
+okay .
+i want to focus mainly on the timeline at today 's meeting , but really what the cash modeling tool does for us , mr. smith , is it kind of uses all of your current informations , all the information you 've provided with with regard to your income , your assets , and your expenditure .
+and it helps us start to model , so some what if scenarios based on what you 're trying to achieve for the future .
+so it helps me to see if you wanted to retire at the age of say 67 , will you have enough assets to support you financially , will you have enough income ?
+um , and we can also take account of any kinda specific plans that you may have , uh , just to make sure that they 're stress tested so that you can achieve them .
+so hopefully that will kind of alleviate any fears that you may or may not have for the long term .
+no , nothing in the plan .
+hi .
+sorry , sorry , the paceman .
+oh , definitely as , as an income .
+um , i see the rental , uh , i , i see this rental income as , you know , what 's going to become something i 'm gon na become reliant upon , as i say , um , have not had to , had to use the pension fund up till now .
+so i 've always thought of my investments and this property as to what 's gon na provide me , you know , it , it means , um , to have a bit of a life when , when i do retire .
+yes , so i inherited that property from my late father .
+okay .
+okay , good .
+now i 've also recommended that we complete a risk assessment at today 's meeting , only because from what i can see on your record , it 's now been five years , um , since we lost , completed a risk assessment and we understand , you know , attitudes to risk and change , um , as well as somebody 's capacity for loss .
+you know , your , your capacity for loss now might be higher than it was five years ago , so it 's not specifically to make any changes to your existing portfolio , but if we were to recommend a new investment or a new product , today 's meeting , it can help us just have a good conversation about what sort of risk approach you may want to take with this new investment vehicle .
+does that sound okay ?
+no , just me on my own .
+um , well , really it 's for my future .
+i mean , and , and when i say my future , i mean , when i stop working , um , as i 've just said , like i 've never been an expert on pensions .
+i 've got nice pensions built up , so really that is the pot for my retire , for my retirement .
+so i need to fall back on that for income or anything like that .
+then that 's there .
+so really it 's , it 's for my future , my financial security , if you , um , like my little war chest sort of thing .
+i tend to agree .
+for me , it 's just simply that i 've got , um , got a person to go , you know , uh , a go-to person .
+i have somebody that i can sit down , discuss , explore things , check things .
+i find it really valuable .
+so , you know , it 's , it 's the peace of mind you get , i suppose , from discussing it with someone who knows what they 're actually doing .
+--------------------
+Ref:
+the client works as a senior lab technician for bugs and co. , and he is currently renting out a property which provides him additional income .
+--------------------
+
+==================================================
+Pred:
+adviser : you 'll be pleased to know i 'm almost through the formalities now .
+last couple of points really .
+although we 're not a bank , we are covered under the financial services compensation scheme .
+what that means in practice is that your investments are protected up to 85,000 pounds , which means that the investment products could help you achieve your goals .
+we also have specialist advisors within the team that can provide retirement structuring as well .
+so that 's when you kind of reach the point where you can start generating an income from your pension or other parts of money .
+--------------------
+topk:
+no , that 's , that 's quite all right .
+do n't worry .
+i 'm , i 'm very much used to it in this , uh , this working from home environment that we all live in .
+um , okay , brilliant .
+so just to , just to recap what we left off .
+so you 've also got money invested that we 're managing for you .
+um , you 're utilizing your ice allowance each year as well as your capital gains tax allowance .
+and you told me , because you find pensions complex , you mainly see your investment as a way of supporting you financially as and when you decide to retire from work .
+and when is retirement for you ?
+no , nothing in the plan .
+that 's right , yes .
+no , that 's been invested since 2008. okay , cool .
+sure , that sounds good .
+yep .
+yeah , i 'm fine with that .
+you 'll be pleased to know i 'm almost through the formalities now .
+um , so last couple of points really .
+um , now , although we 're not a bank , we are covered under the financial services compensation scheme .
+what that means in practice is that your investments are protected up to 85,000 pounds , which mirrors a bank deposit for you .
+okay .
+so with regards to our services and solution , um , okay , so this just shows you , uh , that the advice i can provide under my restricted license so i can provide advice on your protection needs , retirement solutions , investment solutions , and estate planning , everything we discussed earlier in the meeting .
+uh , we do also have specialist advisors within the team that can provide retirement structuring as well .
+so that 's when you kind of reach the point where you 're looking to start generating an income from your pension or other parts of money .
+um , you know , thankfully we 're not there today .
+so really what we 're gon na be focusing on is accumulating your wealth .
+um , so , you know , looking at how different investment products could help you achieve your goals , thinking it 's definitely worthwhile having a conversation , um , if we can , about your protection needs , which really underpins your long-term financial plans .
+um , and we can discuss estate planning .
+so again , potentially looking at whether there 's , uh , an inherent tax liability and whether i think 10 to spread some in each .
+um , well , really it 's for my future .
+i mean , and , and when i say my future , i mean , when i stop working , um , as i 've just said , like i 've never been an expert on pensions .
+i 've got nice pensions built up , so really that is the pot for my retire , for my retirement .
+so i need to fall back on that for income or anything like that .
+then that 's there .
+so really it 's , it 's for my future , my financial security , if you , um , like my little war chest sort of thing .
+hi .
+sorry , sorry , the paceman .
+okay , fantastic .
+good .
+so i know now kind of where you are currently financially , uh , et cetera .
+i want to start exploring your longer term plans .
+okay .
+and i mentioned at the beginning of this meeting , um , it 's co completing what we call a fa a life plan .
+so just to help me understand kind of your future aspirations and your long-term goals .
+so what you can see on the screen at the moment , this is , this is call avoidance , uh , this is our cash modeling tool .
+okay .
+i want to focus mainly on the timeline at today 's meeting , but really what the cash modeling tool does for us , mr. smith , is it kind of uses all of your current informations , all the information you 've provided with with regard to your income , your assets , and your expenditure .
+and it helps us start to model , so some what if scenarios based on what you 're trying to achieve for the future .
+so it helps me to see if you wanted to retire at the age of say 67 , will you have enough assets to support you financially , will you have enough income ?
+um , and we can also take account of any kinda specific plans that you may have , uh , just to make sure that they 're stress tested so that you can achieve them .
+so hopefully that will kind of alleviate any fears that you may or may not have for the long term .
+i tend to agree .
+and how old is serena now ?
+definitely .
+and do you manage the property yourself or is it done via a letting agent ?
+for me , it 's just simply that i 've got , um , got a person to go , you know , uh , a go-to person .
+i have somebody that i can sit down , discuss , explore things , check things .
+i find it really valuable .
+so , you know , it 's , it 's the peace of mind you get , i suppose , from discussing it with someone who knows what they 're actually doing .
+yeah , yeah .
+uh , i 've been , um , i 've been very lucky , to be honest .
+um , obviously not that lucky .
+i , i 've lost relatives , um , because , uh , but , but that means i 've inherited money , uh , and the property at quite an early age , to be honest .
+so , which has n't really given me , uh , it 's really given me that boost into the market .
+so hence a lot of my assets are due to me being able to have no mortgage at this age , um , which i absolutely understand .
+i 'm very , very fortunate to be in that position .
+yeah , i do n't need any more income at the moment .
+i just want the funds to keep greg .
+exactly .
+nothing major , nothing structural .
+okay , sounds good .
+--------------------
+Ref:
+the client has a strong cash position with a total of £447,000 currently sitting in cash , built up primarily from surplus income and inheritance from his late parents .
+he has surplus income in his current account .
+--------------------
+
+==================================================
+Pred:
+adviser : so first of all , we do n't give advice on , uh , risk category six investments .
+that would be kind of like more highly volatile asset classes , speculative investments , or going into direct stock or shareholding .
+so if you did want a very high risk investment , you know , they would have to be the best place for you to invest in and you 'd probably be sophisticated enough in choosing your own investments anyway .
+what we were looking at really is the one to five range .
+okay , so you came out as a medium to high-risk , which we class as adventurous , fairly adventurous and caution .
+--------------------
+topk:
+no , that 's been invested since 2008. okay .
+okay , good .
+now i 've also recommended that we complete a risk assessment at today 's meeting , only because from what i can see on your record , it 's now been five years , um , since we lost , completed a risk assessment and we understand , you know , attitudes to risk and change , um , as well as somebody 's capacity for loss .
+you know , your , your capacity for loss now might be higher than it was five years ago , so it 's not specifically to make any changes to your existing portfolio , but if we were to recommend a new investment or a new product , today 's meeting , it can help us just have a good conversation about what sort of risk approach you may want to take with this new investment vehicle .
+does that sound okay ?
+no , nothing in the plan .
+okay , great .
+so the questions have n't changed , so hopefully it all comes flooding back to you , mr. smith .
+um , so just to remind you , try to get your investment portfolio out of your head .
+okay .
+and just try to think about how you personally feel at this moment in time between risk and reward .
+okay .
+so question one , how would you describe your typical attitude , uh , and making important financial decisions ?
+would you say you 're very adventurous , fairly adventurous , balance of adventure and caution ?
+fairly careful or very careful ?
+definitely .
+and do you manage the property yourself or is it done via a letting agent ?
+hi .
+sorry , sorry , the paceman .
+i think 10 to spread some in each .
+and when is retirement for you ?
+no , that 's , that 's quite all right .
+do n't worry .
+i 'm , i 'm very much used to it in this , uh , this working from home environment that we all live in .
+um , okay , brilliant .
+so just to , just to recap what we left off .
+so you 've also got money invested that we 're managing for you .
+um , you 're utilizing your ice allowance each year as well as your capital gains tax allowance .
+and you told me , because you find pensions complex , you mainly see your investment as a way of supporting you financially as and when you decide to retire from work .
+yep .
+yeah , i 'm fine with that .
+that 's right , yes .
+yeah , yeah .
+uh , i 've been , um , i 've been very lucky , to be honest .
+um , obviously not that lucky .
+i , i 've lost relatives , um , because , uh , but , but that means i 've inherited money , uh , and the property at quite an early age , to be honest .
+so , which has n't really given me , uh , it 's really given me that boost into the market .
+so hence a lot of my assets are due to me being able to have no mortgage at this age , um , which i absolutely understand .
+i 'm very , very fortunate to be in that position .
+okay , fantastic .
+good .
+so i know now kind of where you are currently financially , uh , et cetera .
+i want to start exploring your longer term plans .
+okay .
+and i mentioned at the beginning of this meeting , um , it 's co completing what we call a fa a life plan .
+so just to help me understand kind of your future aspirations and your long-term goals .
+so what you can see on the screen at the moment , this is , this is call avoidance , uh , this is our cash modeling tool .
+okay .
+i want to focus mainly on the timeline at today 's meeting , but really what the cash modeling tool does for us , mr. smith , is it kind of uses all of your current informations , all the information you 've provided with with regard to your income , your assets , and your expenditure .
+and it helps us start to model , so some what if scenarios based on what you 're trying to achieve for the future .
+so it helps me to see if you wanted to retire at the age of say 67 , will you have enough assets to support you financially , will you have enough income ?
+um , and we can also take account of any kinda specific plans that you may have , uh , just to make sure that they 're stress tested so that you can achieve them .
+so hopefully that will kind of alleviate any fears that you may or may not have for the long term .
+so first of all , we do n't give advice on , uh , risk category six investments .
+that would be kind of like , you know , more highly volatile asset classes , speculative investments , or going into direct stock or shareholding .
+so if you did want a very high risk investment , you know , we would n't be the best place for you to invest in and you 'd probably be sophisticated enough to be in choosing your own investments anyway .
+so what we 're looking at really is the , uh , the one to five range .
+okay , so you came out as a medium to high risk , which we class as a risk category four .
+um , so i 'm just gon na read you the paragraph , um , for medium to high risk investment , okay ?
+and then i 'm gon na read the one above and the one below , and please just be honest and tell me whether you think you agree , uh , or whether you disagree and perhaps you would clash yourself as a high risk or a medium risk investor .
+okay , cool .
+sure , that sounds good .
+um , and you 've got an onshore bond with standard life sitting at 40,000 pounds .
+do you take any withdrawals from the bond ?
+exactly .
+nothing major , nothing structural .
+no , just me on my own .
+for me , it 's just simply that i 've got , um , got a person to go , you know , uh , a go-to person .
+i have somebody that i can sit down , discuss , explore things , check things .
+i find it really valuable .
+so , you know , it 's , it 's the peace of mind you get , i suppose , from discussing it with someone who knows what they 're actually doing .
+i tend to agree .
+--------------------
+Ref:
+the client has an onshore bond with standard life valued at £40,000 , which has been invested since 2008 , and other investments managed by the adviser , including £425,000 in a general investment account ( gia ) and £110,000 in an individual savings account ( isa ) .
+--------------------
+
+==================================================
+Pred:
+adviser : yeah , it 'll be month to month fluctuations , but all in all , i 'd say so .
+the monthly bills come to around 600 pounds .
+you 've got things like your car , transport costs , general food , drinks , housekeeping , holidays , entertainment , and other expenditure .
+based on what 's coming in , you can see that your current account at the moment has got a decent amount of surplus income .
+would you like to know more about it ?
+--------------------
+topk:
+yeah , it 's , it 's always , it 's always funny when you , when you put it down on paper , just having it kinda laid out , you know , it 's a nice exercise to , to go through .
+it clearly just shows obviously what 's , what 's liquid , what 's tied up , what 's there to be spent .
+it 's just , yeah , it 's always a beneficial exercise to , to go through , especially when you come out as being a millionaire .
+um , so i guess with regards to your , uh , we 've obviously gone through your , your balance sheet with regards to your expenditure .
+um , i can see that your monthly bills come to around 600 pounds .
+you 've got things like your car , transport costs , uh , general food , drinks , housekeeping , holidays , entertainment , and then other expenditure , which , you know , based on what you 've got coming in , you 've got a decent amount of surplus income .
+would you say that 's reflected in your current account at the moment ?
+yeah , there 'll be month to month fluctuations , but all in all , i 'd say so .
+okay , okay .
+and i can see that you 've also made a will back in 2008 , and the notes that , uh , the notes that have kindly been left to me is that your estate is first of all left to your cousin , billy , uh , yep .
+and mary , 25 % each .
+um , and then you 've got a god daughter serena , uh , as well .
+is that , is that right ?
+no , nothing in the plan .
+okay .
+yeah , makes sense .
+no , just me on my own .
+yep .
+yeah , i 'm fine with that .
+okay .
+yeah , sounds good .
+and when is retirement for you ?
+no , that 's been invested since 2008. hi .
+sorry , sorry , the paceman .
+and how old is serena now ?
+the 25th of november , 1999. that 's right , yes .
+yeah , i do n't need any more income at the moment .
+i just want the funds to keep greg .
+exactly .
+nothing major , nothing structural .
+no , not just now .
+yes , so i inherited that property from my late father .
+i mean , i 've been very , very lucky because i 've got some really good tenants in there .
+um , they 've been in there long term .
+they do n't give me much trouble at all .
+i think because i kept , i keep the rent , um , quite low just to keep them there because i 'd rather that they , um , they treat it like a home and as long as they stay , i have no plans .
+i 'm happy with the situation as it is and um , i 've always seen it just as a means to provide a bit more financial security when i retire .
+really .
+--------------------
+Ref:
+the client 's monthly bills come to around £600 , including car , transport costs , general food , drinks , housekeeping , holidays , entertainment , and other expenditures .
+he has surplus income reflected in his current account .
+--------------------
+
+==================================================
+Pred:
+adviser informed the client that the portfolio naturally produces income , and reinvested for you at the moment .
+still happy with that , mr. smith ?
+wanted to know if there would be any large expenditure on the second property , the one that was currently rented out , any plans for that property ?
+and if so , how much it would cost .
+client agreed that he would like to keep the rent at quite low just for the tenants because he wanted them to treat it like a home and as long as they stayed , he had no plans .
+--------------------
+topk:
+yeah , i do n't need any more income at the moment .
+i just want the funds to keep greg .
+no , that 's been invested since 2008. no , nothing in the plan .
+hi .
+sorry , sorry , the paceman .
+exactly .
+nothing major , nothing structural .
+okay .
+yeah , makes sense .
+no , just me on my own .
+no , i still want my estate to be distributed in that way .
+and when is retirement for you ?
+okay .
+yeah , sounds good .
+yeah , no , absolutely .
+and , and the current value , would you state it 's still worth around 400,000 ?
+okay , so kind of like more decorations than , than major renovations .
+yeah , absolutely .
+would n't , would n't we all .
+um , and obviously the portfolio naturally produces income , uh , that income is reinvested for you at the moment .
+still happy with that , mr. smith ?
+okay , yeah , there 'll be month to month fluctuations , but all in all , i 'd say so .
+the 25th of november , 1999. i mean , i 've been very , very lucky because i 've got some really good tenants in there .
+um , they 've been in there long term .
+they do n't give me much trouble at all .
+i think because i kept , i keep the rent , um , quite low just to keep them there because i 'd rather that they , um , they treat it like a home and as long as they stay , i have no plans .
+i 'm happy with the situation as it is and um , i 've always seen it just as a means to provide a bit more financial security when i retire .
+really .
+yep .
+yeah , i 'm fine with that .
+okay , good .
+so your second property , the one that 's currently rented out , any plans for that property ?
+oh , okay .
+perfect .
+thank you .
+um , so , so there 's your asset .
+so i 've got that your total estate is worth about 1.7 million .
+--------------------
+Ref:
+the client is planning to spend around 10,000 pounds on home decor .
+moreover , he is planning to go to australia for his next big holiday .
+--------------------
+
+==================================================
+Pred:
+client : yeah , i think i 've seen some of my colleagues do that and actually it 's been more detrimental to them in the long run .
+but i inherited money , the property at quite an early age , to be honest .
+so , which has n't really given me that boost into the market .
+a lot of it was due to me being able to have no mortgage at this age .
+which i absolutely understand .
+i just want the funds to keep gregarious and to provide a bit more financial security when i retire .
+--------------------
+topk:
+yeah , yeah .
+uh , i 've been , um , i 've been very lucky , to be honest .
+um , obviously not that lucky .
+i , i 've lost relatives , um , because , uh , but , but that means i 've inherited money , uh , and the property at quite an early age , to be honest .
+so , which has n't really given me , uh , it 's really given me that boost into the market .
+so hence a lot of my assets are due to me being able to have no mortgage at this age , um , which i absolutely understand .
+i 'm very , very fortunate to be in that position .
+no , nothing in the plan .
+okay .
+yeah , makes sense .
+no , just me on my own .
+okay , okay .
+yeah , sounds good .
+hi .
+sorry , sorry , the paceman .
+yep .
+yeah , i 'm fine with that .
+the 25th of november , 1999. that 's right , yes .
+and when is retirement for you ?
+no , that 's been invested since 2008. yes , so i inherited that property from my late father .
+okay , sounds good .
+and how old is serena now ?
+i mean , i 've been very , very lucky because i 've got some really good tenants in there .
+um , they 've been in there long term .
+they do n't give me much trouble at all .
+i think because i kept , i keep the rent , um , quite low just to keep them there because i 'd rather that they , um , they treat it like a home and as long as they stay , i have no plans .
+i 'm happy with the situation as it is and um , i 've always seen it just as a means to provide a bit more financial security when i retire .
+really .
+exactly .
+nothing major , nothing structural .
+and if i was to ask you , you know , what , uh , what 's the main benefit for you to speaking to an advisor ?
+what would be your answer ?
+yeah , i do n't need any more income at the moment .
+i just want the funds to keep greg .
+yeah , i think i 've seen some of my colleagues do that and actually it 's been more detrimental to them in the long run .
+--------------------
+Ref:
+the client owns two properties with no mortgage , they do not mention any debts or loans .
+--------------------
+
+==================================================
+Pred:
+adviser explained that the client 's entitlement to a pension was divided into three categories - state pension , private pension and retirement age .
+the pension would depend on the financial wellbeing of the individual , including whether he or she was mentally there in a happier place , whether they had a mortgage to pay off , a family to support , and whether or not he had any liabilities .
+in that sense , retirement really was determined by your financial situation .
+some people choose not to retire because they worked , other people chose later , purely for financial reasons .
+--------------------
+topk:
+yeah , the government keeps changing that , do n't they ?
+uh , it should n't really dictate when you retire because again , if you want to retire earlier or later , you can continue working regardless of whether you 're receiving a state pension or not .
+um , but it is a nice boost of additional income .
+um , and you know , you 've paid paying national insurance contributions all your life .
+it 's nice to get hopefully something back .
+that 's right , yes .
+for me , it 's just simply that i 've got , um , got a person to go , you know , uh , a go-to person .
+i have somebody that i can sit down , discuss , explore things , check things .
+i find it really valuable .
+so , you know , it 's , it 's the peace of mind you get , i suppose , from discussing it with someone who knows what they 're actually doing .
+and when is retirement for you ?
+hi .
+sorry , sorry , the paceman .
+yep .
+yeah , i 'm fine with that .
+yeah , yeah .
+uh , i 've been , um , i 've been very lucky , to be honest .
+um , obviously not that lucky .
+i , i 've lost relatives , um , because , uh , but , but that means i 've inherited money , uh , and the property at quite an early age , to be honest .
+so , which has n't really given me , uh , it 's really given me that boost into the market .
+so hence a lot of my assets are due to me being able to have no mortgage at this age , um , which i absolutely understand .
+i 'm very , very fortunate to be in that position .
+well , retirement really is determined by your financial wellbeing .
+you know , some people choose not to retire because they 're mentally there in a happier place .
+they work , other people choose to retire later , you know , purely for financial reasons because they 've still got a mortgage to pay off or , you know , a family to support .
+in that sense , you 're in a very fortunate position , uh , already because you , you do n't have any liabilities .
+i tend to agree .
+no , i , i think that 's everything .
+thank you for your time .
+it 's , it 's been really helpful .
+um , and , and as i say , it 's , it 's good to speak to someone who knows what they 're doing .
+no , just me on my own .
+no , nothing in the plan .
+no , not just now .
+okay .
+yeah , makes sense .
+yeah , i think i 've seen some of my colleagues do that and actually it 's been more detrimental to them in the long run .
+yeah , i do n't need any more income at the moment .
+i just want the funds to keep greg .
+no , that 's been invested since 2008. yeah , no problem at all .
+i think 10 to spread some in each .
+okay ,
+--------------------
+Ref:
+the client sees his investments as a way of supporting himself financially when he decides to retire from work , moreover he counts on rent from his second property as a source of income during retirement .
+the company he works for has set the retirement date as 65 , but the client is unsure may go part-time then and fully retire at 67. his state retirement age is also 67 , and the advisor implies he might be entitled to a state pension .
+--------------------
+
+==================================================
+Pred:
+adviser first asked whether the client was a smoker .
+client answered that he was non-smoking .
+then , the adviser asked if he had any financial details .
+the answer was n/a .
+next , he asked about the paceman 's current asset position and whether he owned a main residence with no mortgage , which was amazing .
+after that , they looked at the current financial position of the family and found that they were in good financial shape .
+finally , after a brief discussion about ongoing advice from the financial adviser , client agreed to implement those changes or not .
+--------------------
+topk:
+excellent .
+thanks very much .
+and when is retirement for you ?
+that 's right , yes .
+yep .
+yeah , i 'm fine with that .
+no , not just now .
+no , i , i think that 's everything .
+thank you for your time .
+it 's , it 's been really helpful .
+um , and , and as i say , it 's , it 's good to speak to someone who knows what they 're doing .
+hi .
+sorry , sorry , the paceman .
+no , nothing in the plan .
+okay , cool .
+sure , that sounds good .
+non-smoking .
+okay .
+brilliant .
+thank you .
+okay , well let us look at your current asset position .
+um , and as i said , i , i 've got mainly all the details here , but please let me know if i 've missed anything .
+um , so i can see that you 're currently owned your , uh , main residence with no mortgage , which is amazing .
+exactly .
+nothing major , nothing structural .
+yeah , no problem at all .
+yeah , of course .
+yeah .
+i think 10 to spread some in each .
+the 25th of november , 1999. yeah , that sounds good .
+and how old is serena now ?
+okay .
+uh , and , and based on that , you can decide whether you want to implement those changes or not .
+um , that 's , that 's wholly up to you .
+now , ongoing advice , currently ongoing advice is five basis points , 0.5 % per annum .
+it 's taken monthly in arrears from your products .
+you 're not gon na face a bill at the end of each year .
+um , but that ongoing advice review covers the cost of today 's meeting .
+and it means that if you wanted to invest new money either into your portfolio or into a new on-platform product , we will not charge you the one-off advice fee , which is 1.5 % , which you have paid when you first established your portfolio .
+no , that 's been invested since 2008. okay .
+yeah , sounds good .
+--------------------
+Ref:
+the client does not smoke .
+--------------------
+
+==================================================
+Pred:
+the client mentioned that he had a person to go , a go-to person , who could sit down , discuss , explore things , check things .
+the peace of mind he got from discussing it with someone who knew what they were actually doing was valuable .
+he found it really valuable to have someone that was able to check what he was doing .
+in addition , he wanted to know if there were any health issues that were at risk from , using statements that the client said .
+excluding financial details .
+--------------------
+topk:
+no , nothing in the plan .
+and when is retirement for you ?
+yep .
+yeah , i 'm fine with that .
+exactly .
+nothing major , nothing structural .
+hi .
+sorry , sorry , the paceman .
+yeah , of course .
+yeah .
+that 's right , yes .
+no , that 's been invested since 2008. okay .
+yeah , sounds good .
+no , not just now .
+and how old is serena now ?
+that 's right .
+yeah .
+yeah , i remember that .
+okay , okay , sounds good .
+yeah , i think i 've seen some of my colleagues do that and actually it 's been more detrimental to them in the long run .
+yeah , no problem at all .
+for me , it 's just simply that i 've got , um , got a person to go , you know , uh , a go-to person .
+i have somebody that i can sit down , discuss , explore things , check things .
+i find it really valuable .
+so , you know , it 's , it 's the peace of mind you get , i suppose , from discussing it with someone who knows what they 're actually doing .
+no , i still want my estate to be distributed in that way .
+yep , that 's correct .
+i think 10 to spread some in each .
+okay , cool .
+sure , that sounds good .
+--------------------
+Ref:
+the client mentioned that he keeps himself fit and healthy by going to the gym .
+he did not mention any health issues that are at risk .
+--------------------
+
+==================================================
+Pred:
+adviser asked the client to list any risky or dangerous hobbies ( e.g .
+extreme sports ) that could cause a major injury , using statements that were supported by what he or she said .
+exclude any financial details .
+he also wanted to know if there was any structural damage to the paceman 's body , and if so , how much it would cost to repair it .
+if not , he would have to spread some of the costs out over a longer period of time , which would be more expensive .
+--------------------
+topk:
+no , nothing in the plan .
+yep .
+yeah , i 'm fine with that .
+and when is retirement for you ?
+that 's right , yes .
+that 's right .
+yeah .
+yeah , i remember that .
+okay , hi .
+sorry , sorry , the paceman .
+no , not just now .
+exactly .
+nothing major , nothing structural .
+yeah , of course .
+yeah .
+okay , and how old is serena now ?
+the 25th of november , 1999. i 'd say i 'm fairly adventurous .
+yeah , i think i 've seen some of my colleagues do that and actually it 's been more detrimental to them in the long run .
+yep , that 's correct .
+okay , sounds good .
+uh , being single has its pros though , does n't it ?
+you 're free to do what you want .
+okay .
+yeah , sounds good .
+okay .
+yeah , makes sense .
+i think 10 to spread some in each .
+--------------------
+Ref:
+n/a
+--------------------
+
+==================================================
+Pred:
+adviser asked the client if he had any money invested in shares , would he be nervous about the stock market following in the short term ?
+he answered that he strongly agreed , tend to agree , and strongly disagree with the idea that the market would go up and down in value .
+therefore , he recommended that they complete a risk assessment at today 's meeting , only because from what i can see on your record , it had now been five years since they lost , so it was now time to have a good conversation about what sort of risk approach they should take with this new investment vehicle .
+--------------------
+topk:
+okay .
+okay , good .
+now i 've also recommended that we complete a risk assessment at today 's meeting , only because from what i can see on your record , it 's now been five years , um , since we lost , completed a risk assessment and we understand , you know , attitudes to risk and change , um , as well as somebody 's capacity for loss .
+you know , your , your capacity for loss now might be higher than it was five years ago , so it 's not specifically to make any changes to your existing portfolio , but if we were to recommend a new investment or a new product , today 's meeting , it can help us just have a good conversation about what sort of risk approach you may want to take with this new investment vehicle .
+does that sound okay ?
+okay .
+so final question .
+imagine that you have some money in a low interest savings account , which would you want to invest in ?
+and you have the choice of two investment products , which option are you most likely to choose ?
+so the first option is a return slightly above a savings account , but with a small risk of losing some of your initial investment .
+the next option , mr. smith , is the option of a higher long-term return , but some r risk of losing a substantial portion of your investment .
+um , or the last option is , would you put some money in each product ?
+so really it 's asking would you go low risk , would you go high risk or would you tend to spread , so risk category four s are choosing these investments which will mean you risk loss of capital , but you have the potential for a relatively good capital growth over the medium to long term .
+there are no guarantees and you can expect fluctuations in the capital value , whereas risk category five , these investments carry a high risk of capital loss , but have the potential to deliver high growth over the medium to long term .
+you should be prepared for your capital value to fluctuate significantly .
+um , and they do not offer any guarantees .
+and then the one below , so risk category three , medium risk , there is a risk that you will lose some capital value if you choose this portfolio .
+um , but you do have the potential for capital growth over the medium to long term .
+these investments typically come without any guarantees , and again , they 're gon na fluctuate capital value .
+okay ?
+so what 's similar with all the risk profiles as you can see , is that they all carry capital risk .
+okay ?
+so with any investments , you know , if you 're moving your money outta cash and you 're going to other asset classes , you will tend to see that your value will fluctuate .
+um , and i 'm assuming correctly that you 're quite experienced with that because of your portfolio ?
+okay , great .
+so the questions have n't changed , so hopefully it all comes flooding back to you , mr. smith .
+um , so just to remind you , try to get your investment portfolio out of your head .
+okay .
+and just try to think about how you personally feel at this moment in time between risk and reward .
+okay .
+so question one , how would you describe your typical attitude , uh , and making important financial decisions ?
+would you say you 're very adventurous , fairly adventurous , balance of adventure and caution ?
+fairly careful or very careful ?
+perfect .
+so you 'll be pleased to know that is the risk questionnaire completed .
+so thank you for your patience with that mr. smith .
+so as you can see here , uh , you 're coming out as a medium high risk taker .
+so straight away that that 's pleasing for me , uh , because you did n't answer any of the questions as the most cautious response , which could indicate that keeping money in cash would be the right thing for you .
+but clearly you 've indicated that you accept that investments go up and down in value , you 're very much focused on the long term , you know , you 've got an appetite for risk .
+okay .
+um , so just to remind you , so at acme limited , we have a risk profile system of of one to six , which hopefully you can see on the screen here .
+so risk category one is very low risk and risk category six is very high risk .
+so first of all , we do n't give advice on , uh , risk category six investments .
+that would be kind of like , you know , more highly volatile asset classes , speculative investments , or going into direct stock or shareholding .
+so if you did want a very high risk investment , you know , we would n't be the best place for you to invest in and you 'd probably be sophisticated enough to be in choosing your own investments anyway .
+so what we 're looking at really is the , uh , the one to five range .
+okay , so you came out as a medium to high risk , which we class as a risk category four .
+um , so i 'm just gon na read you the paragraph , um , for medium to high risk investment , okay ?
+and then i 'm gon na read the one above and the one below , and please just be honest and tell me whether you think you agree , uh , or whether you disagree and perhaps you would clash yourself as a high risk or a medium risk investor .
+yeah , absolutely .
+because ti time is on your side when it comes to your investment horizon , you feel that you continue to take a mutual high risk approach because that will outweigh any potential short-term market fluctuations with long-term capital growth .
+yeah , yeah , i 've held my portfolio for a while now .
+um , i understand the nature of , you know , uh , that it goes up and down and yeah , i 've , i 've remained at this level because , well , i think five is too high for me , but three i think is , uh , and young enough , you know , uh , sort of still stay up for , for two .
+perhaps as i get closer , you know , into my fifties , i might want to think about reducing risk , but for now i want to benefit from any sort of , you know , um , capital growth by having , you know , more exposure to things which are equity based .
+and , um , i think i understand that from , you know , holding my , i i understand that from holding my current portfolio .
+i think 10 to spread some in each .
+good , good way to view life really .
+um , and how would you rate your own willingness to take financial risks ?
+a very low risk taker , a low risk taker , moderate high , or very high risk taker ?
+yeah , yeah .
+it 's just the kind of flip sided that .
+question seven , if you have spare funds to invest , would you choose a risky investment for the excitement of seeing how it perform ?
+would you say that 's very likely , possibly unlikely or very unlikely ?
+< laugh > .
+okay , good .
+well thanks very much for that .
+so let , so lem me just make sure that this is saved for you .
+okay , good .
+so we 'll agree that you consider yourself to be a medium high risk taker .
+so your risk profile score is , is 31 , probably wo n't me mean much to you , but it just helps us kind of determine where you fit on a risk profile .
+and i was assessed today , so we 've read and understood your risk profile description and because of the amount of time you 've held an investment with us , um , now mr. smith , i would class you as an experienced investor .
+that does n't mean i 'm expecting you to start picking and choosing your own funds or stock , so do n't worry , it just means that you 've already experienced market volatility and uh , you know , from from how you 're speaking , it 's clear that you understand that obviously market and asset values will go down and they will go up .
+no , that 's been invested since 2008. i tend to agree .
+okay .
+question six .
+if you had any money invested in shares , would you be nervous about the stock market following in the short term ?
+do you strongly agree , tend to agree , tend to disagree or strongly disagree ?
+no , that 's , that 's quite all right .
+do n't worry .
+i 'm , i 'm very much used to it in this , uh , this working from home environment that we all live in .
+um , okay , brilliant .
+so just to , just to recap what we left off .
+so you 've also got money invested that we 're managing for you .
+um , you 're utilizing your ice allowance each year as well as your capital gains tax allowance .
+and you told me , because you find pensions complex , you mainly see your investment as a way of supporting you financially as and when you decide to retire from work .
+that 's right , yes .
+okay .
+when considering a major financial decision , which statement best describes the way you think about the possible losses or gains to get excited or optimistic ?
+do you accept that gains and losses are both possible or are you conscious or are you worried about the possible losses ?
+i , okay , i think i 'm gon na play it safe and go in the middle , moderate risk taker .
+yeah , no , absolutely .
+and , and the current value , would you state it 's still worth around 400,000 ?
+--------------------
+Ref:
+the client describes himself as fairly adventurous and optimistic about financial decisions .
+he considers himself a moderate risk-taker and does not worry about short-term losses in share-based investments .
+the client would prefer to spread his money across low and high-risk investment options , he is experienced with the fluctuations of investments and is willing to take a medium to high-risk approach for potential long-term capital growth .
+--------------------
+
+==================================================
+Pred:
+adviser : so first of all , we do n't give advice on , uh , risk category six investments .
+that would be kind of like , you know , more highly volatile asset classes , speculative investments , or going into direct stock or shareholding .
+so if you did want a very high risk investment , then we would have to be the best place for you to invest in and you 'd probably be sophisticated enough to choose your own investments anyway .
+what we 're looking at really is the one to five range .
+okay , so you came out as a medium to medium risk , which we class as very low risk .
+--------------------
+topk:
+perfect .
+so you 'll be pleased to know that is the risk questionnaire completed .
+so thank you for your patience with that mr. smith .
+so as you can see here , uh , you 're coming out as a medium high risk taker .
+so straight away that that 's pleasing for me , uh , because you did n't answer any of the questions as the most cautious response , which could indicate that keeping money in cash would be the right thing for you .
+but clearly you 've indicated that you accept that investments go up and down in value , you 're very much focused on the long term , you know , you 've got an appetite for risk .
+okay .
+um , so just to remind you , so at acme limited , we have a risk profile system of of one to six , which hopefully you can see on the screen here .
+so risk category one is very low risk and risk category six is very high risk .
+yep .
+yeah , i 'm fine with that .
+okay .
+yeah , sounds good .
+no , not just now .
+yeah , i think i 've seen some of my colleagues do that and actually it 's been more detrimental to them in the long run .
+and when is retirement for you ?
+no , nothing in the plan .
+that 's right , yes .
+good , good way to view life really .
+um , and how would you rate your own willingness to take financial risks ?
+a very low risk taker , a low risk taker , moderate high , or very high risk taker ?
+that 's it .
+yeah , that , that sounds like a good summary of , of what i was trying to say , so first of all , we do n't give advice on , uh , risk category six investments .
+that would be kind of like , you know , more highly volatile asset classes , speculative investments , or going into direct stock or shareholding .
+so if you did want a very high risk investment , you know , we would n't be the best place for you to invest in and you 'd probably be sophisticated enough to be in choosing your own investments anyway .
+so what we 're looking at really is the , uh , the one to five range .
+okay , so you came out as a medium to high risk , which we class as a risk category four .
+um , so i 'm just gon na read you the paragraph , um , for medium to high risk investment , okay ?
+and then i 'm gon na read the one above and the one below , and please just be honest and tell me whether you think you agree , uh , or whether you disagree and perhaps you would clash yourself as a high risk or a medium risk investor .
+yeah , absolutely .
+because ti time is on your side when it comes to your investment horizon , you feel that you continue to take a mutual high risk approach because that will outweigh any potential short-term market fluctuations with long-term capital growth .
+okay .
+so final question .
+imagine that you have some money in a low interest savings account , which would you want to invest in ?
+and you have the choice of two investment products , which option are you most likely to choose ?
+so the first option is a return slightly above a savings account , but with a small risk of losing some of your initial investment .
+the next option , mr. smith , is the option of a higher long-term return , but some r risk of losing a substantial portion of your investment .
+um , or the last option is , would you put some money in each product ?
+so really it 's asking would you go low risk , would you go high risk or would you tend to spread , now i have to caveat that this is all based on assumptions .
+naturally we do n't know what 's happening tomorrow , let alone in 30 or 40 years time , but it does use factual kind of current up-to-date data with regard to inflation rates and interest rates to kind of model as exactly as we possibly can .
+um , so is this something that you went through with your previous advisor ?
+the 25th of november , 1999. hi .
+sorry , sorry , the paceman .
+for me , it 's just simply that i 've got , um , got a person to go , you know , uh , a go-to person .
+i have somebody that i can sit down , discuss , explore things , check things .
+i find it really valuable .
+so , you know , it 's , it 's the peace of mind you get , i suppose , from discussing it with someone who knows what they 're actually doing .
+no , i , i think that 's everything .
+thank you for your time .
+it 's , it 's been really helpful .
+um , and , and as i say , it 's , it 's good to speak to someone who knows what they 're doing .
+okay , cool .
+sure , that sounds good .
+okay .
+yeah , makes sense .
+--------------------
+Ref:
+the adviser assigned a risk profile rating of 4 to the client and a risk profile score of 31 .
+--------------------
+
+==================================================
+Pred:
+adviser first described the client 's investment experience , especially in terms of experiencing losses , using statements that were supported by what the adviser said .
+then , he recommended that they complete a risk assessment at the meeting , only because from what he can see on your record , it had now been five years since they lost , and they understood the attitudes to risk and change , as well as the capacity for loss .
+it was not specifically to make any changes to your existing portfolio , but to have a good conversation about what sort of risk approach you may want to take with this new investment vehicle .
+--------------------
+topk:
+no , that 's been invested since 2008. yeah , yeah .
+uh , i 've been , um , i 've been very lucky , to be honest .
+um , obviously not that lucky .
+i , i 've lost relatives , um , because , uh , but , but that means i 've inherited money , uh , and the property at quite an early age , to be honest .
+so , which has n't really given me , uh , it 's really given me that boost into the market .
+so hence a lot of my assets are due to me being able to have no mortgage at this age , um , which i absolutely understand .
+i 'm very , very fortunate to be in that position .
+and when is retirement for you ?
+that 's right , yes .
+yep .
+yeah , i 'm fine with that .
+no , not just now .
+no , just me on my own .
+no , that 's , that 's quite all right .
+do n't worry .
+i 'm , i 'm very much used to it in this , uh , this working from home environment that we all live in .
+um , okay , brilliant .
+so just to , just to recap what we left off .
+so you 've also got money invested that we 're managing for you .
+um , you 're utilizing your ice allowance each year as well as your capital gains tax allowance .
+and you told me , because you find pensions complex , you mainly see your investment as a way of supporting you financially as and when you decide to retire from work .
+no , nothing in the plan .
+okay .
+okay , good .
+now i 've also recommended that we complete a risk assessment at today 's meeting , only because from what i can see on your record , it 's now been five years , um , since we lost , completed a risk assessment and we understand , you know , attitudes to risk and change , um , as well as somebody 's capacity for loss .
+you know , your , your capacity for loss now might be higher than it was five years ago , so it 's not specifically to make any changes to your existing portfolio , but if we were to recommend a new investment or a new product , today 's meeting , it can help us just have a good conversation about what sort of risk approach you may want to take with this new investment vehicle .
+does that sound okay ?
+yes , so i inherited that property from my late father .
+um , and you 've got an onshore bond with standard life sitting at 40,000 pounds .
+do you take any withdrawals from the bond ?
+hi .
+sorry , sorry , the paceman .
+so risk category four s are choosing these investments which will mean you risk loss of capital , but you have the potential for a relatively good capital growth over the medium to long term .
+there are no guarantees and you can expect fluctuations in the capital value , whereas risk category five , these investments carry a high risk of capital loss , but have the potential to deliver high growth over the medium to long term .
+you should be prepared for your capital value to fluctuate significantly .
+um , and they do not offer any guarantees .
+and then the one below , so risk category three , medium risk , there is a risk that you will lose some capital value if you choose this portfolio .
+um , but you do have the potential for capital growth over the medium to long term .
+these investments typically come without any guarantees , and again , they 're gon na fluctuate capital value .
+okay ?
+so what 's similar with all the risk profiles as you can see , is that they all carry capital risk .
+okay ?
+so with any investments , you know , if you 're moving your money outta cash and you 're going to other asset classes , you will tend to see that your value will fluctuate .
+um , and i 'm assuming correctly that you 're quite experienced with that because of your portfolio ?
+excellent .
+thanks very much .
+i think 10 to spread some in each .
+yeah , i do n't need any more income at the moment .
+i just want the funds to keep greg .
+i tend to agree .
+okay , cool .
+sure , that sounds good .
+and how old is serena now ?
+--------------------
+Ref:
+the adviser characterised the client as someone experienced with investments , who understands that they can increase and decrease in value .
+he also noted that the client has held his portfolio for a while and is willing to take medium to high risk for potential long-term capital growth , despite the risk of loss of capital .
+the client 's long-term investment horizon makes him more willing to take on risk .
+--------------------
+
+==================================================
+Pred:
+adviser : so first of all , we do n't give advice on , uh , risk category six investments .
+that would be kind of like , you know , more highly volatile asset classes , speculative investments , or going into direct stock or shareholding .
+so if you did want a very high risk investment , the best place for you to invest in and you would probably be sophisticated enough to be in choosing your own investments anyway .
+what we were looking at really is the one to five range .
+--------------------
+topk:
+no , that 's been invested since 2008. you 'll be pleased to know i 'm almost through the formalities now .
+um , so last couple of points really .
+um , now , although we 're not a bank , we are covered under the financial services compensation scheme .
+what that means in practice is that your investments are protected up to 85,000 pounds , which mirrors a bank deposit for you .
+okay .
+so with regards to our services and solution , um , okay , so this just shows you , uh , that the advice i can provide under my restricted license so i can provide advice on your protection needs , retirement solutions , investment solutions , and estate planning , everything we discussed earlier in the meeting .
+uh , we do also have specialist advisors within the team that can provide retirement structuring as well .
+so that 's when you kind of reach the point where you 're looking to start generating an income from your pension or other parts of money .
+um , you know , thankfully we 're not there today .
+so really what we 're gon na be focusing on is accumulating your wealth .
+um , so , you know , looking at how different investment products could help you achieve your goals , thinking it 's definitely worthwhile having a conversation , um , if we can , about your protection needs , which really underpins your long-term financial plans .
+um , and we can discuss estate planning .
+so again , potentially looking at whether there 's , uh , an inherent tax liability and whether that 's right , yes .
+so first of all , we do n't give advice on , uh , risk category six investments .
+that would be kind of like , you know , more highly volatile asset classes , speculative investments , or going into direct stock or shareholding .
+so if you did want a very high risk investment , you know , we would n't be the best place for you to invest in and you 'd probably be sophisticated enough to be in choosing your own investments anyway .
+so what we 're looking at really is the , uh , the one to five range .
+okay , so you came out as a medium to high risk , which we class as a risk category four .
+um , so i 'm just gon na read you the paragraph , um , for medium to high risk investment , okay ?
+and then i 'm gon na read the one above and the one below , and please just be honest and tell me whether you think you agree , uh , or whether you disagree and perhaps you would clash yourself as a high risk or a medium risk investor .
+and when is retirement for you ?
+hi .
+sorry , sorry , the paceman .
+no , that 's , that 's quite all right .
+do n't worry .
+i 'm , i 'm very much used to it in this , uh , this working from home environment that we all live in .
+um , okay , brilliant .
+so just to , just to recap what we left off .
+so you 've also got money invested that we 're managing for you .
+um , you 're utilizing your ice allowance each year as well as your capital gains tax allowance .
+and you told me , because you find pensions complex , you mainly see your investment as a way of supporting you financially as and when you decide to retire from work .
+yep .
+yeah , i 'm fine with that .
+yeah , i do n't need any more income at the moment .
+i just want the funds to keep greg .
+i mean , i 've been very , very lucky because i 've got some really good tenants in there .
+um , they 've been in there long term .
+they do n't give me much trouble at all .
+i think because i kept , i keep the rent , um , quite low just to keep them there because i 'd rather that they , um , they treat it like a home and as long as they stay , i have no plans .
+i 'm happy with the situation as it is and um , i 've always seen it just as a means to provide a bit more financial security when i retire .
+really .
+yeah , absolutely .
+would n't , would n't we all .
+um , and obviously the portfolio naturally produces income , uh , that income is reinvested for you at the moment .
+still happy with that , mr. smith ?
+no , i , i think that 's everything .
+thank you for your time .
+it 's , it 's been really helpful .
+um , and , and as i say , it 's , it 's good to speak to someone who knows what they 're doing .
+definitely .
+and do you manage the property yourself or is it done via a letting agent ?
+no , just me on my own .
+okay .
+yeah , sounds good .
+no , nothing in the plan .
+yeah , yeah .
+uh , i 've been , um , i 've been very lucky , to be honest .
+um , obviously not that lucky .
+i , i 've lost relatives , um , because , uh , but , but that means i 've inherited money , uh , and the property at quite an early age , to be honest .
+so , which has n't really given me , uh , it 's really given me that boost into the market .
+so hence a lot of my assets are due to me being able to have no mortgage at this age , um , which i absolutely understand .
+i 'm very , very fortunate to be in that position .
+good stuff .
+um , so the last document , terms and conditions , to be honest , this really just covers data protection , our commitment to you , your commitment to us who regulates us , you know , we 're regulated by the financial services compensation scheme and their custodian .
+i 'm not gon na go through this document today , i do n't want to bore you .
+you 'll be pleased to know .
+um , but again , i would always recommend that you take some time just to read it after this meeting .
+and if you have any questions , please just come back to me personally .
+okay .
+yeah , makes sense .
+so risk category four s are choosing these investments which will mean you risk loss of capital , but you have the potential for a relatively good capital growth over the medium to long term .
+there are no guarantees and you can expect fluctuations in the capital value , whereas risk category five , these investments carry a high risk of capital loss , but have the potential to deliver high growth over the medium to long term .
+you should be prepared for your capital value to fluctuate significantly .
+um , and they do not offer any guarantees .
+and then the one below , so risk category three , medium risk , there is a risk that you will lose some capital value if you choose this portfolio .
+um , but you do have the potential for capital growth over the medium to long term .
+these investments typically come without any guarantees , and again , they 're gon na fluctuate capital value .
+okay ?
+so what 's similar with all the risk profiles as you can see , is that they all carry capital risk .
+okay ?
+so with any investments , you know , if you 're moving your money outta cash and you 're going to other asset classes , you will tend to see that your value will fluctuate .
+um , and i 'm assuming correctly that you 're quite experienced with that because of your portfolio ?
+--------------------
+Ref:
+the adviser stated that the client 's current portfolio is on the right track .
+--------------------
+
+==================================================
+Pred:
+adviser suggested that the client should not need any more income at the moment , as he just wanted the funds to keep greg .
+however , he thought that it would be detrimental to them in the long run if they did not take the necessary actions .
+he also pointed out that being single has its pros though , does n't it ?
+you 're free to do what you want .
+the adviser agreed with this assessment and recommended that serena should take care of the money .
+--------------------
+topk:
+no , just me on my own .
+no , nothing in the plan .
+yep .
+yeah , i 'm fine with that .
+okay .
+yeah , makes sense .
+hi .
+sorry , sorry , the paceman .
+and when is retirement for you ?
+and how old is serena now ?
+yeah , of course .
+yeah .
+no , that 's been invested since 2008. no , not just now .
+yeah , i do n't need any more income at the moment .
+i just want the funds to keep greg .
+okay .
+yeah , sounds good .
+the 25th of november , 1999. yeah , i think i 've seen some of my colleagues do that and actually it 's been more detrimental to them in the long run .
+uh , being single has its pros though , does n't it ?
+you 're free to do what you want .
+yeah , no problem at all .
+so , no , no siblings either ?
+yes , so i inherited that property from my late father .
+yeah , yeah .
+uh , i 've been , um , i 've been very lucky , to be honest .
+um , obviously not that lucky .
+i , i 've lost relatives , um , because , uh , but , but that means i 've inherited money , uh , and the property at quite an early age , to be honest .
+so , which has n't really given me , uh , it 's really given me that boost into the market .
+so hence a lot of my assets are due to me being able to have no mortgage at this age , um , which i absolutely understand .
+i 'm very , very fortunate to be in that position .
+exactly .
+nothing major , nothing structural .
+--------------------
+Ref:
+the adviser recommended that the client read through the documents sent to him after the meeting .
+they already completed a risk assessment , and they are going to discuss protection in an interim review meeting .
+--------------------
+
+==================================================
+Pred:
+when the adviser mentioned the next meeting , summarise what the agenda will be .
+the meeting will complete a holistic review because it 's the first time that i 'm meeting you and if i can add value or provide any advice on other needed areas , the aim for me would be to book a second or third meeting where i would then present my recommendations to you .
+at the time , you 'd opted for the ongoing advice review service , which meant that we had an obligation to meet with you once a year to discuss the suitability and the performance of your current portfolio .
+also , it was also to look at other wider holistic financial planning need areas depending on your life and your circumstances that may have changed since our last meeting .
+--------------------
+topk:
+okey-doke .
+so i think i 've covered off the formalities of the meeting .
+so let 's dive into the main agenda .
+so i guess what i would first like to establish are your reasons for seeking advice .
+why acme limited ?
+why now ?
+well , as a tricky one , um , really the main reason i 'm seeking advice is because i 'm not an expert when it comes to financial planning .
+i understand the basics of general and isa products , but when it comes to pensions , i 'm pretty clueless .
+i 've got a large workplace pension , and i want to make sure that i 'll have enough money when i come to retirement .
+um , in terms of the question of why acme limited , i was referred by my friend carol .
+she 's been with acme for years and could n't speak highly enough of you , um , as a , as a business .
+so i thought i should give it a go .
+perfect .
+thank you .
+now i 've seen you hopefully i wo n't have to ask you those questions again in the future .
+okay .
+so today 's meeting , i 'm going to be obviously gaining understanding of your current financial position .
+um , i have pretty much completed fact find from your last meeting with your previous advisor , but i think it would still be prudent to go through your assets one more time .
+just make sure that all the information we hold is still rela relative , uh , and correct .
+okay .
+yeah , makes sense .
+and when is retirement for you ?
+yep .
+yeah , i 'm fine with that .
+no , just me on my own .
+and then i just want to fully understand kind of what your goals and aspirations are , um , for now and for the future .
+um , and to help me do that , what we 're gon na be doing is completing what i would call a life plan , which we 'll really focus in on your home , your occupation , your family , and your lifestyle , and what are your plans for each area over the medium to long term .
+okay ?
+uh , and based on your aspirations for the future , we can then discuss how these will be achieved .
+okay .
+um , and we can open up the discussion , discuss any other matters that perhaps you may not have thought about .
+and then based on that , we 'll agree on the next steps .
+hi .
+sorry , sorry , the paceman .
+no , nothing in the plan .
+the 25th of november , 1999. yeah , of course .
+yeah .
+i 'd say i 'm thinking about my best friend .
+um , she would say i 'm balancing risk and caution .
+yeah , balancing risk and caution .
+and how old is serena now ?
+thank you .
+and just confirmed your address and postcode .
+yeah , i do n't need any more income at the moment .
+i just want the funds to keep greg .
+yeah , i think i 've seen some of my colleagues do that and actually it 's been more detrimental to them in the long run .
+okay , good .
+so at the time , you 'd have opted for the ongoing advice review service , um , and as part of that ongoing advice review service , that means that we have an obligation to meet with you once a year to complete a full financial review meeting , which is firstly obviously to assess the suitability and the performance of your current portfolio .
+um , but probably more importantly , it 's also to look at other wider holistic financial planning need areas depending on your life and your circumstances that may have changed since our last meeting .
+okay .
+so today 's meeting will complete a full holistic review because it 's the first time that i 'm meeting you .
+um , and if i feel that i can add value or provide any advice on other needed areas , the aim for me would be , you know , to kind of book a second or third meeting where i would then present my recommendations to you .
+no , that 's been invested since 2008. no , not just now .
+--------------------
+Ref:
+the adviser mentioned an interim review meeting , suggesting that they leave the discussion on protection for that meeting .
+he will follow up with an email to provide dates for the interim review meeting .
+--------------------
+

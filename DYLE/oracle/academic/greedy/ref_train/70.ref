@@ -1,0 +1,8 @@
+the meeting began with the professor discussing the technical features of their recordings .
+the interaction between the hardware and the model had to be mediated through different techniques .
+some members on the team were working on low-pass down-sampling as a replacement for lda filters .
+low-pass seemed to perform better , but the team was uncertain about its robustness .
+the professor thought that the team should submit something to eurospeech and that they should further study reverberation .
+the professor thought that studying spectrograms would be a good place to start .
+the team then discussed vad and line mean normalization as techniques for getting rid of noise .
+the meeting ended with a brief discussion on feature detection .

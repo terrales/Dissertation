@@ -1,0 +1,25 @@
+so , i think this is gon na be a pretty short meeting because i have four agenda items , three of them were requested by jane who is not gon na be at the meeting today .
+so .
+{ vocalsound } the uh first was transcription status .
+does anyone besides jane know what the transcription status is ?
+which meetings is she transcribing ?
+so , uh { disfmarker } but that is a good point so we 'll get to that , too .
+um , darpa demo status , not much to say .
+the back - end stuff is working out fine .
+it 's more or less ready to go .
+i 've added some stuff that uh indes indexes by the meeting type mr , edu , et cetera and also by the user id .
+so that the front - end can then do filtering based on that as well .
+uh { disfmarker } the back - end is uh , going more slowly as i s i think i said before just cuz i 'm not much of a tcl - tk programmer .
+and uh dave gelbart says he 's a little too busy .
+so i think don and i are gon na work on that and { disfmarker } and you and i can just talk about it off - line more .
+o k .
+finally said he was too busy .
+i guess we reached it .
+for a demo ?
+and see the pitch contours also .
+did they come in ?
+you had an eighteen gigabyte drive .
+well , except that we keep going for our full time .
+well they been using timit .
+well , i was gon na start off with the small train set .
+we 're just waiting for you to leave .

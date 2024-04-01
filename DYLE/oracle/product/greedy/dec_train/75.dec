@@ -1,0 +1,16 @@
+we need some kinda of power d power source .
+um we have to decide on our our user interface , which is his department , but the in user interface is also a major component .
+um we need a programmable digital signal processor to um to take the input from the user and translate that into uh into electronic signal , which we pass to the infra-red l_e_d_ , which you aim at the television uh which { disfmarker } and it receives that signal .
+you need a on-off switch um i do n't know how that got in there .
+and uh we also need to um have the { vocalsound } { disfmarker } if we want a universal remote we need to have encryption codes for the different makes of t_v_s .
+so we need to know all the different you know all the different signals and so that 'll require some memory as well .
+um so here 's just a basic layout of how how the remote would work .
+you ha the v the power source is in the upper right-hand corner there , and you can see that uh we have the user interface here which is connected to the chip which does all our signal processing , and then passes that signal on to the infra-red l_e_d_ and that signal is then emitted and received by the television at the photo-transistor .
+so { vocalsound } those are the basic components that need to go into this and everything else is pretty much uh open to move around .
+um well the most the most costly components are gon na be the chip and the uh th it could als basically the user interface and the casing are gon na be expensive as well .
+um the l_e_d_ and the the transistors and everything else are you know they 're they 're pretty cheap .
+so depending on what we want our functionality to be , um the chip could be expensive or it could be cheap .
+uh sorry , i did n't mean to cut in { vocalsound } .
+it w it would increase the cost .
+that 's what i was saying .
+a charging system .

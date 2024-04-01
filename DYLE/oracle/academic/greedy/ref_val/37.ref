@@ -1,0 +1,2 @@
+the semantic specification , on the other hand , is split into three levels : `` scenario '' is a list of schemas and bindings between them , which describes the current event in terms of source-path-goal , container , etc .
+; `` referent '' is about the entities in the discourse and includes grammatical information and pointers to the ontology ; `` discourse segment '' comprises utterance-specific things .

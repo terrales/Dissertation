@@ -1,0 +1,11 @@
+and i 'm trying two mlp , one one that only have t three output , voice , unvoice , and silence , that 's a clever thing to do .
+how long does it take , carmen , to train up one of these nets ?
+mmm .
+so they had one recurrent net for each particular feature ?
+could be .
+yeah .
+yeah .
+yeah .
+and the uh the { disfmarker } the run time of the recognizer on the plp features is longer which sort of implies that the networks are bushier , you know , there 's more things it 's considering which goes along with the fact that the matches are n't as good .
+so uh , you know , it could be that we 're just pruning too much .
+and it was n't trained on this task either .

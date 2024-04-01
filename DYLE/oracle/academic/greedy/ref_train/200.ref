@@ -1,0 +1,4 @@
+grad c thought that one way to improve performance might be training lda filters in different conditions .
+the professor d agreed that the lda filter was interesting .
+he thought hamming would work too .
+professor g said that most people just do on-line filtering , which entailed subtracting the mean , not lda .
