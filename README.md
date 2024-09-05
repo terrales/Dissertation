@@ -11,7 +11,7 @@ performant LLMs for robust query-based meeting summarisation?*
 Here we provide a breakdown of the folders in this repo, and what they each contain:
 
 - ```‎data processing```‎: contains the scripts used to convert the Aveni test set to the format used in the QMSum dataset and to get statistics about the data structure.
-- ```‎Data```‎: contains the newly annotated Aveni meeting and two .txt files with output from the DYLE model (used in ```DYLE+GPT``` model).
+- ```‎Data```‎: contains .txt file with output from the DYLE model (used in ```DYLE+GPT``` model). Aveni dataset removed from public version.
 - ```‎LangChain+GPT```‎: contains the Python notebooks to run and evaluate the ```‎LangChain+GPT``` model with the Aveni dataset or with the Product dataset from QMSum.
 - ```‎GPT end-to-end```‎: contains the Python notebooks to run and evaluate the ```‎GPT end-to-end``` model configuration with the Aveni dataset or with the Product dataset from QMSum.
 - ```‎DYLE```‎: contains the code to train and test ```‎DYLE```‎ with Aveni or QMSum data in in-domain ad out-of-domain settings.
